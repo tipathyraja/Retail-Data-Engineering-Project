@@ -1,0 +1,9 @@
+===== DATA QUALITY REPORT =====
+Original records: 1001
+Accepted records: 996
+Rejected records: 5
+Duplicate records: 1
+Missing customer records: 1
+Missing product records: 1
+Invalid date records: 1
+Rejected records saved: C:\Users\Raja\OneDrive\Documents\Retail_Data_Engineering_Project\data\processed\rejected_sales_records.csv

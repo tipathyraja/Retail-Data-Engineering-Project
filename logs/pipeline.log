@@ -1,0 +1,118 @@
+2026-11-10 15:23:41,587 - INFO - ETL pipeline started
+2026-11-10 15:23:41,595 - INFO - Extracted 1001 records
+2026-11-10 15:23:41,620 - ERROR - ETL pipeline failed
+Traceback (most recent call last):
+  File "C:\Users\Raja\OneDrive\Documents\Retail_Data_Engineering_Project\python_scripts\run_full_pipeline.py", line 89, in <module>
+    df.to_csv(clean_file, index=False)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Raja\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\core\generic.py", line 3976, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        path_or_buf,
+        ^^^^^^^^^^^^
+    ...<14 lines>...
+        storage_options=storage_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Raja\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\io\formats\format.py", line 1025, in to_csv
+    csv_formatter.save()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Raja\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\io\formats\csvs.py", line 251, in save
+    with get_handle(
+         ~~~~~~~~~~^
+        self.filepath_or_buffer,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        storage_options=self.storage_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as handles:
+    ^
+  File "C:\Users\Raja\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\Raja\\OneDrive\\Documents\\Retail_Data_Engineering_Project\\data\\processed\\clean_sales_data.csv'
+2026-11-10 15:27:51,228 - INFO - ETL pipeline started
+2026-11-10 15:27:51,233 - INFO - Extracted 1001 records
+2026-11-10 15:27:51,244 - ERROR - ETL pipeline failed
+Traceback (most recent call last):
+  File "C:\Users\Raja\OneDrive\Documents\Retail_Data_Engineering_Project\python_scripts\run_full_pipeline.py", line 89, in <module>
+    df.to_csv(clean_file, index=False)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Raja\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\core\generic.py", line 3976, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        path_or_buf,
+        ^^^^^^^^^^^^
+    ...<14 lines>...
+        storage_options=storage_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Raja\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\io\formats\format.py", line 1025, in to_csv
+    csv_formatter.save()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Raja\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\io\formats\csvs.py", line 251, in save
+    with get_handle(
+         ~~~~~~~~~~^
+        self.filepath_or_buffer,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        storage_options=self.storage_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as handles:
+    ^
+  File "C:\Users\Raja\AppData\Local\Programs\Python\Python314\Lib\site-packages\pandas\io\common.py", line 930, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\Raja\\OneDrive\\Documents\\Retail_Data_Engineering_Project\\data\\processed\\clean_sales_data.csv'
+2026-11-10 15:32:34,316 - INFO - ETL pipeline started
+2026-11-10 15:32:34,551 - INFO - Extracted 1001 records
+2026-11-10 15:32:34,740 - INFO - Cleaned records: 996
+2026-11-10 15:32:43,309 - INFO - Pipeline completed. Final records: 996
+2026-11-10 15:57:56,078 - INFO - ETL pipeline started
+2026-11-10 15:57:56,089 - INFO - Extracted 1001 records
+2026-11-10 15:57:56,118 - INFO - Cleaned records: 996
+2026-11-10 15:58:06,675 - INFO - Pipeline completed. Final records: 996
+2026-11-10 16:36:33,480 - INFO - ETL pipeline started
+2026-11-10 16:36:33,495 - INFO - Extracted 1001 records
+2026-11-10 16:36:33,519 - INFO - Cleaned records: 996
+2026-11-10 16:36:33,829 - INFO - Pipeline completed. Final records: 996
+2026-11-10 16:38:19,311 - INFO - ETL pipeline started
+2026-11-10 16:38:19,319 - INFO - Extracted 1001 records
+2026-11-10 16:38:19,343 - INFO - Cleaned records: 996
+2026-11-10 16:38:19,543 - INFO - Pipeline completed. Final records: 996
+2026-11-10 16:38:55,443 - INFO - ETL pipeline started
+2026-11-10 16:38:55,450 - INFO - Extracted 1001 records
+2026-11-10 16:38:55,478 - INFO - Cleaned records: 996
+2026-11-10 16:38:55,718 - INFO - Pipeline completed. Final records: 996
+2026-11-10 16:41:03,678 - INFO - ETL pipeline started
+2026-11-10 16:41:03,689 - INFO - Extracted 1001 records
+2026-11-10 16:41:03,716 - INFO - Cleaned records: 996
+2026-11-10 16:41:03,885 - INFO - Pipeline completed. Final records: 996
+2026-11-10 16:42:21,391 - INFO - ETL pipeline started
+2026-11-10 16:42:21,400 - INFO - Extracted 1001 records
+2026-11-10 16:42:21,446 - INFO - Cleaned records: 996
+2026-11-10 16:42:21,685 - INFO - Pipeline completed. Final records: 996
+2026-11-10 16:43:40,744 - INFO - ETL pipeline started
+2026-11-10 16:43:40,749 - INFO - Extracted 1001 records
+2026-11-10 16:43:40,768 - INFO - Cleaned records: 996
+2026-11-10 16:43:40,996 - INFO - Pipeline completed. Final records: 996
+2026-11-10 16:49:11,447 - INFO - ETL pipeline started
+2026-11-10 16:49:11,462 - INFO - Extracted 1001 records
+2026-11-10 16:49:11,528 - INFO - Cleaned records: 996
+2026-11-10 16:49:11,835 - INFO - Pipeline completed. Final records: 996
+2026-11-10 17:09:52,992 - INFO - ETL pipeline started
+2026-11-10 17:09:53,006 - INFO - Extracted 1001 records
+2026-11-10 17:09:53,040 - INFO - Cleaned records: 996
+2026-11-10 17:09:53,337 - INFO - Pipeline completed. Final records: 996
+2026-11-10 19:59:53,573 - INFO - ETL pipeline started
+2026-11-10 19:59:53,586 - INFO - Extracted 1001 records
+2026-11-10 19:59:53,632 - INFO - Cleaned records: 996
+2026-11-10 19:59:54,077 - INFO - Pipeline completed. Final records: 996

@@ -1,0 +1,30 @@
+
+========================================
+         ETL MONITORING REPORT
+========================================
+
+Report Generated: 2026-11-10 19:47:15.068928
+
+
+    ===== ETL PIPELINE SUMMARY =====
+    Execution Date: 2026-11-10 17:09:53.338947
+    Original Records: 1001
+    Accepted Records: 996
+    Rejected Records: 5
+    PostgreSQL Records: 996
+    Missing Values: 0
+    Duplicate Order IDs: 0
+    Pipeline Status: SUCCESS
+    
+
+========================================
+             MONITORING RESULT
+========================================
+
+Data Quality: PASSED
+Duplicate Check: PASSED
+Missing Value Check: PASSED
+Database Load: PASSED
+Pipeline Execution: SUCCESS
+
+========================================

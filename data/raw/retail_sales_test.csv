@@ -1,0 +1,1002 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Quantity,Unit_Price,Region,Sales_Amount
+ORD0001,2026-04-13,,Printer,Electronics,10,30046,West,300460
+ORD0002,2026-09-28,Amit,,Electronics,7,40547,East,283829
+ORD0003,2026-04-17,Rohit,Mouse,Accessories,-5,41930,South,377370
+ORD0004,2026-03-13,Rahul,Keyboard,Electronics,1,2487,West,999
+ORD0005,not_a_date,Vikas,Printer,Accessories,2,49742,South,99484
+ORD0006,2026-01-21,Rahul,Monitor,Electronics,9,25605,West,230445
+ORD0007,2026-04-13,Sneha,Mouse,Accessories,9,13448,West,121032
+ORD0008,2026-05-02,Karan,Mouse,Office Equipment,6,13526,West,81156
+ORD0009,2026-08-03,Rahul,Laptop,Electronics,6,3273,East,19638
+ORD0010,2026-03-29,Sneha,Laptop,Accessories,4,46427,South,185708
+ORD0011,2026-04-10,Neha,Printer,Office Equipment,4,10378,North,41512
+ORD0012,2026-06-01,Neha,Monitor,Electronics,5,43446,North,217230
+ORD0013,2026-05-11,Anjali,Mouse,Electronics,3,10877,North,32631
+ORD0014,2026-05-30,Rahul,Printer,Electronics,1,7847,North,7847
+ORD0015,2026-09-15,Vikas,Printer,Accessories,1,34276,West,34276
+ORD0016,2026-10-21,Rahul,Mobile,Accessories,7,4283,South,29981
+ORD0017,2026-07-11,Vikas,Laptop,Office Equipment,1,4798,South,4798
+ORD0018,2026-10-04,Priya,Monitor,Accessories,1,5168,East,5168
+ORD0019,2026-06-10,Anjali,Mouse,Accessories,3,21171,South,63513
+ORD0020,2026-01-22,Priya,Printer,Electronics,10,35320,South,353200
+ORD0021,2026-09-10,Rahul,Mouse,Electronics,4,34984,South,139936
+ORD0022,2026-08-24,Anjali,Mobile,Electronics,4,33578,East,134312
+ORD0023,2026-02-18,Priya,Monitor,Electronics,2,47659,North,95318
+ORD0024,2026-02-28,Amit,Printer,Electronics,1,21422,South,21422
+ORD0025,2026-06-19,Rahul,Mouse,Electronics,3,34528,East,103584
+ORD0026,2026-07-07,Priya,Laptop,Electronics,4,46425,East,185700
+ORD0027,2026-09-28,Amit,Mobile,Office Equipment,3,20816,West,62448
+ORD0028,2026-07-09,Amit,Monitor,Office Equipment,8,11960,East,95680
+ORD0029,2026-06-24,Neha,Mobile,Office Equipment,10,17468,North,174680
+ORD0030,2026-02-20,Rahul,Laptop,Office Equipment,1,30766,South,30766
+ORD0031,2026-02-24,Amit,Monitor,Electronics,2,30709,East,61418
+ORD0032,2026-09-01,Neha,Mobile,Office Equipment,7,24500,North,171500
+ORD0033,2026-05-11,Priya,Keyboard,Electronics,4,14511,East,58044
+ORD0034,2026-05-15,Sneha,Laptop,Office Equipment,8,3366,East,26928
+ORD0035,2026-01-21,Rahul,Laptop,Accessories,3,47633,East,142899
+ORD0036,2026-06-16,Anjali,Laptop,Office Equipment,6,6398,East,38388
+ORD0037,2026-10-01,Vikas,Keyboard,Office Equipment,9,18895,East,170055
+ORD0038,2026-03-30,Vikas,Keyboard,Electronics,1,39519,North,39519
+ORD0039,2026-01-14,Priya,Mouse,Office Equipment,1,38207,South,38207
+ORD0040,2026-08-30,Pooja,Printer,Accessories,8,4506,South,36048
+ORD0041,2026-09-22,Pooja,Mobile,Electronics,3,34893,South,104679
+ORD0042,2026-02-22,Priya,Mouse,Electronics,5,11456,South,57280
+ORD0043,2026-04-02,Amit,Mobile,Office Equipment,1,31163,North,31163
+ORD0044,2026-09-21,Rahul,Printer,Electronics,5,6578,West,32890
+ORD0045,2026-02-04,Vikas,Keyboard,Electronics,6,30131,West,180786
+ORD0046,2026-07-25,Vikas,Printer,Electronics,8,30640,North,245120
+ORD0047,2026-03-22,Amit,Keyboard,Electronics,3,42191,North,126573
+ORD0048,2026-02-19,Vikas,Printer,Electronics,3,4461,East,13383
+ORD0049,2026-01-02,Anjali,Mouse,Electronics,10,29777,East,297770
+ORD0050,2026-02-23,Rahul,Monitor,Accessories,9,42074,East,378666
+ORD0051,2026-04-16,Karan,Mouse,Office Equipment,4,31917,South,127668
+ORD0052,2026-09-17,Vikas,Mobile,Accessories,4,22984,East,91936
+ORD0053,2026-07-10,Priya,Mouse,Electronics,7,18603,West,130221
+ORD0054,2026-08-06,Anjali,Laptop,Electronics,2,29845,South,59690
+ORD0055,2026-02-13,Vikas,Mobile,Office Equipment,8,46826,East,374608
+ORD0056,2026-06-11,Anjali,Printer,Accessories,6,39954,South,239724
+ORD0057,2026-07-21,Neha,Mobile,Office Equipment,3,2087,West,6261
+ORD0058,2026-09-27,Karan,Monitor,Accessories,9,43071,East,387639
+ORD0059,2026-10-31,Rohit,Keyboard,Electronics,5,21531,West,107655
+ORD0060,2026-09-28,Priya,Printer,Office Equipment,8,26712,West,213696
+ORD0061,2026-08-03,Priya,Mobile,Office Equipment,7,10850,West,75950
+ORD0062,2026-09-09,Rahul,Printer,Electronics,8,19316,East,154528
+ORD0063,2026-07-09,Anjali,Printer,Office Equipment,7,20788,North,145516
+ORD0064,2026-10-23,Amit,Printer,Accessories,3,29932,East,89796
+ORD0065,2026-08-01,Priya,Keyboard,Accessories,2,44722,West,89444
+ORD0066,2026-07-27,Anjali,Mouse,Accessories,7,49117,East,343819
+ORD0067,2026-08-25,Anjali,Printer,Accessories,3,7337,West,22011
+ORD0068,2026-02-22,Sneha,Laptop,Electronics,3,34717,North,104151
+ORD0069,2026-10-07,Sneha,Monitor,Office Equipment,2,21384,South,42768
+ORD0070,2026-08-05,Rohit,Keyboard,Accessories,4,5954,North,23816
+ORD0071,2026-09-09,Neha,Mobile,Electronics,8,9924,North,79392
+ORD0072,2026-07-07,Rohit,Keyboard,Office Equipment,1,37385,South,37385
+ORD0073,2026-02-10,Vikas,Mobile,Office Equipment,1,42137,East,42137
+ORD0074,2026-06-06,Amit,Keyboard,Electronics,5,44118,South,220590
+ORD0075,2026-01-15,Vikas,Mobile,Electronics,5,18912,East,94560
+ORD0076,2026-10-28,Pooja,Printer,Accessories,1,47611,East,47611
+ORD0077,2026-03-06,Vikas,Mouse,Office Equipment,6,40113,West,240678
+ORD0078,2026-01-09,Rahul,Mobile,Office Equipment,1,20642,West,20642
+ORD0079,2026-05-09,Vikas,Mobile,Electronics,5,37892,South,189460
+ORD0080,2026-05-16,Rohit,Laptop,Office Equipment,9,9348,North,84132
+ORD0081,2026-03-04,Priya,Mobile,Accessories,5,49817,South,249085
+ORD0082,2026-05-19,Priya,Laptop,Office Equipment,6,13636,East,81816
+ORD0083,2026-03-22,Sneha,Monitor,Electronics,8,1089,West,8712
+ORD0084,2026-06-12,Amit,Printer,Electronics,1,21408,South,21408
+ORD0085,2026-10-16,Amit,Laptop,Accessories,2,7009,South,14018
+ORD0086,2026-09-18,Rahul,Mouse,Accessories,9,40961,West,368649
+ORD0087,2026-08-19,Rohit,Printer,Office Equipment,3,42722,West,128166
+ORD0088,2026-02-10,Sneha,Laptop,Office Equipment,6,49723,West,298338
+ORD0089,2026-01-28,Pooja,Printer,Electronics,5,44976,East,224880
+ORD0090,2026-05-15,Amit,Printer,Accessories,2,46210,West,92420
+ORD0091,2026-07-20,Priya,Printer,Accessories,7,49920,North,349440
+ORD0092,2026-09-25,Vikas,Monitor,Accessories,4,10468,South,41872
+ORD0093,2026-02-02,Vikas,Mouse,Office Equipment,1,2962,West,2962
+ORD0094,2026-02-17,Sneha,Keyboard,Accessories,4,9960,West,39840
+ORD0095,2026-03-03,Rohit,Keyboard,Electronics,6,34283,East,205698
+ORD0096,2026-08-04,Rohit,Laptop,Electronics,7,9775,East,68425
+ORD0097,2026-10-20,Neha,Printer,Office Equipment,7,29177,South,204239
+ORD0098,2026-04-09,Karan,Laptop,Office Equipment,7,13769,North,96383
+ORD0099,2026-06-21,Amit,Monitor,Accessories,3,906,South,2718
+ORD0100,2026-08-02,Rohit,Monitor,Office Equipment,6,7884,West,47304
+ORD0101,2026-02-04,Priya,Mobile,Electronics,8,23053,North,184424
+ORD0102,2026-08-15,Sneha,Monitor,Accessories,4,24866,North,99464
+ORD0103,2026-04-11,Pooja,Mobile,Electronics,8,44536,North,356288
+ORD0104,2026-05-11,Neha,Mouse,Accessories,2,17869,North,35738
+ORD0105,2026-09-14,Anjali,Laptop,Office Equipment,10,12295,South,122950
+ORD0106,2026-01-05,Rahul,Mouse,Accessories,9,4985,East,44865
+ORD0107,2026-08-06,Pooja,Monitor,Accessories,9,42169,East,379521
+ORD0108,2026-09-12,Anjali,Mouse,Electronics,8,3118,West,24944
+ORD0109,2026-10-10,Vikas,Mouse,Electronics,10,30643,East,306430
+ORD0110,2026-07-26,Rahul,Mouse,Accessories,10,29925,East,299250
+ORD0111,2026-01-15,Amit,Monitor,Office Equipment,1,23173,East,23173
+ORD0112,2026-02-11,Priya,Printer,Office Equipment,2,10103,East,20206
+ORD0113,2026-06-28,Rahul,Mouse,Electronics,6,40196,West,241176
+ORD0114,2026-03-04,Karan,Mobile,Office Equipment,10,5868,South,58680
+ORD0115,2026-08-19,Anjali,Monitor,Electronics,5,5121,North,25605
+ORD0116,2026-08-29,Amit,Mouse,Office Equipment,9,15219,East,136971
+ORD0117,2026-02-21,Karan,Printer,Accessories,5,29727,South,148635
+ORD0118,2026-04-06,Vikas,Monitor,Electronics,2,44394,East,88788
+ORD0119,2026-08-10,Karan,Keyboard,Electronics,10,8066,East,80660
+ORD0120,2026-08-19,Neha,Printer,Accessories,4,12806,North,51224
+ORD0121,2026-08-25,Neha,Mobile,Electronics,9,24542,North,220878
+ORD0122,2026-05-23,Sneha,Mouse,Office Equipment,1,15586,North,15586
+ORD0123,2026-06-20,Pooja,Keyboard,Office Equipment,1,17887,East,17887
+ORD0124,2026-01-29,Pooja,Keyboard,Electronics,7,27542,East,192794
+ORD0125,2026-02-05,Amit,Monitor,Office Equipment,3,24388,East,73164
+ORD0126,2026-01-13,Vikas,Keyboard,Electronics,10,27014,North,270140
+ORD0127,2026-06-09,Rohit,Mobile,Accessories,2,18823,West,37646
+ORD0128,2026-07-06,Neha,Mobile,Electronics,9,18519,South,166671
+ORD0129,2026-08-31,Amit,Laptop,Accessories,3,10390,West,31170
+ORD0130,2026-03-27,Rohit,Mobile,Office Equipment,2,41363,East,82726
+ORD0131,2026-10-11,Pooja,Printer,Accessories,8,45987,East,367896
+ORD0132,2026-03-07,Sneha,Keyboard,Office Equipment,10,10783,West,107830
+ORD0133,2026-06-19,Karan,Mobile,Electronics,6,18779,East,112674
+ORD0134,2026-02-14,Neha,Monitor,Office Equipment,6,47499,South,284994
+ORD0135,2026-03-03,Amit,Laptop,Electronics,10,23408,East,234080
+ORD0136,2026-05-14,Rahul,Keyboard,Electronics,7,47966,South,335762
+ORD0137,2026-10-11,Rohit,Laptop,Accessories,7,38452,West,269164
+ORD0138,2026-01-28,Karan,Keyboard,Accessories,6,35670,West,214020
+ORD0139,2026-04-18,Neha,Monitor,Accessories,4,38163,East,152652
+ORD0140,2026-02-13,Pooja,Laptop,Accessories,9,44672,South,402048
+ORD0141,2026-10-13,Vikas,Mouse,Office Equipment,6,48429,East,290574
+ORD0142,2026-05-08,Rohit,Printer,Office Equipment,4,9843,North,39372
+ORD0143,2026-08-19,Pooja,Printer,Office Equipment,3,11137,North,33411
+ORD0144,2026-07-09,Neha,Keyboard,Electronics,4,35224,North,140896
+ORD0145,2026-08-13,Rohit,Mouse,Office Equipment,3,40291,North,120873
+ORD0146,2026-10-10,Karan,Laptop,Office Equipment,2,29634,East,59268
+ORD0147,2026-05-01,Neha,Mouse,Office Equipment,5,47330,North,236650
+ORD0148,2026-04-26,Anjali,Mouse,Accessories,2,47601,South,95202
+ORD0149,2026-08-21,Amit,Laptop,Office Equipment,6,4407,West,26442
+ORD0150,2026-09-16,Karan,Monitor,Electronics,3,34075,West,102225
+ORD0151,2026-07-17,Rohit,Mouse,Accessories,6,47299,North,283794
+ORD0152,2026-05-17,Vikas,Mouse,Electronics,10,5327,North,53270
+ORD0153,2026-06-14,Pooja,Monitor,Office Equipment,9,31107,North,279963
+ORD0154,2026-08-13,Rahul,Mouse,Accessories,1,14199,East,14199
+ORD0155,2026-08-22,Pooja,Mouse,Electronics,6,37792,West,226752
+ORD0156,2026-06-21,Rohit,Mouse,Office Equipment,9,48461,North,436149
+ORD0157,2026-06-01,Pooja,Printer,Electronics,4,26383,South,105532
+ORD0158,2026-06-09,Amit,Mobile,Electronics,2,49491,North,98982
+ORD0159,2026-04-06,Neha,Monitor,Electronics,4,5813,West,23252
+ORD0160,2026-08-21,Rahul,Mouse,Office Equipment,1,14098,North,14098
+ORD0161,2026-06-29,Priya,Printer,Office Equipment,3,46326,West,138978
+ORD0162,2026-04-23,Rohit,Monitor,Electronics,10,29307,North,293070
+ORD0163,2026-02-21,Sneha,Keyboard,Accessories,9,5387,South,48483
+ORD0164,2026-09-25,Priya,Keyboard,Accessories,10,4354,North,43540
+ORD0165,2026-10-22,Pooja,Mouse,Office Equipment,5,45726,South,228630
+ORD0166,2026-04-23,Rohit,Printer,Office Equipment,6,15036,South,90216
+ORD0167,2026-04-11,Anjali,Printer,Office Equipment,3,4058,North,12174
+ORD0168,2026-04-23,Sneha,Monitor,Office Equipment,5,10272,South,51360
+ORD0169,2026-03-22,Rahul,Monitor,Office Equipment,8,36843,East,294744
+ORD0170,2026-07-06,Vikas,Printer,Accessories,6,35686,North,214116
+ORD0171,2026-04-23,Anjali,Monitor,Office Equipment,4,37466,North,149864
+ORD0172,2026-01-02,Priya,Printer,Electronics,2,34269,South,68538
+ORD0173,2026-05-10,Neha,Mobile,Electronics,9,40387,South,363483
+ORD0174,2026-08-08,Amit,Printer,Accessories,1,19729,North,19729
+ORD0175,2026-02-23,Vikas,Keyboard,Electronics,1,10173,East,10173
+ORD0176,2026-08-12,Anjali,Monitor,Accessories,4,28377,South,113508
+ORD0177,2026-08-13,Neha,Printer,Accessories,7,32101,South,224707
+ORD0178,2026-05-06,Neha,Printer,Electronics,1,38584,West,38584
+ORD0179,2026-05-10,Rohit,Monitor,Office Equipment,9,16744,East,150696
+ORD0180,2026-02-22,Anjali,Mobile,Electronics,4,27856,East,111424
+ORD0181,2026-06-21,Rahul,Mobile,Electronics,3,17306,North,51918
+ORD0182,2026-08-06,Pooja,Monitor,Accessories,1,23599,East,23599
+ORD0183,2026-06-09,Sneha,Laptop,Electronics,10,45141,North,451410
+ORD0184,2026-07-17,Sneha,Monitor,Accessories,4,37534,West,150136
+ORD0185,2026-09-04,Priya,Monitor,Office Equipment,9,40817,East,367353
+ORD0186,2026-07-22,Priya,Mobile,Office Equipment,10,19594,South,195940
+ORD0187,2026-07-03,Sneha,Mobile,Office Equipment,6,11089,West,66534
+ORD0188,2026-05-03,Rahul,Monitor,Electronics,6,2157,North,12942
+ORD0189,2026-09-12,Amit,Monitor,Accessories,1,33264,West,33264
+ORD0190,2026-10-21,Karan,Monitor,Office Equipment,10,40031,North,400310
+ORD0191,2026-10-07,Pooja,Mobile,Accessories,2,3664,West,7328
+ORD0192,2026-04-08,Amit,Monitor,Accessories,6,28042,North,168252
+ORD0193,2026-07-17,Rohit,Monitor,Office Equipment,2,18937,East,37874
+ORD0194,2026-08-28,Karan,Mouse,Office Equipment,3,41747,South,125241
+ORD0195,2026-05-24,Karan,Laptop,Accessories,4,39005,North,156020
+ORD0196,2026-04-07,Anjali,Keyboard,Office Equipment,5,20101,West,100505
+ORD0197,2026-07-20,Rahul,Laptop,Accessories,9,28930,North,260370
+ORD0198,2026-05-04,Rahul,Mouse,Accessories,4,6509,North,26036
+ORD0199,2026-07-06,Karan,Keyboard,Office Equipment,9,5052,North,45468
+ORD0200,2026-09-16,Anjali,Monitor,Electronics,10,9917,West,99170
+ORD0201,2026-05-28,Pooja,Mouse,Office Equipment,3,42489,South,127467
+ORD0202,2026-09-09,Karan,Monitor,Electronics,8,3171,East,25368
+ORD0203,2026-05-27,Vikas,Mobile,Accessories,1,7019,South,7019
+ORD0204,2026-05-28,Priya,Printer,Accessories,9,37230,North,335070
+ORD0205,2026-07-18,Priya,Mouse,Electronics,9,13234,West,119106
+ORD0206,2026-05-08,Amit,Mobile,Accessories,10,46390,South,463900
+ORD0207,2026-02-08,Rohit,Mouse,Electronics,2,4222,North,8444
+ORD0208,2026-05-09,Priya,Mouse,Electronics,4,5406,East,21624
+ORD0209,2026-09-24,Neha,Mobile,Accessories,8,30596,East,244768
+ORD0210,2026-05-31,Amit,Keyboard,Electronics,7,40531,East,283717
+ORD0211,2026-10-25,Priya,Laptop,Office Equipment,1,14199,North,14199
+ORD0212,2026-04-09,Rohit,Monitor,Office Equipment,5,21938,West,109690
+ORD0213,2026-09-20,Rahul,Mouse,Accessories,7,44356,South,310492
+ORD0214,2026-09-09,Rahul,Monitor,Accessories,4,34076,East,136304
+ORD0215,2026-05-24,Pooja,Printer,Electronics,1,42438,North,42438
+ORD0216,2026-04-22,Karan,Mobile,Electronics,9,49528,North,445752
+ORD0217,2026-03-01,Vikas,Monitor,Electronics,5,32747,South,163735
+ORD0218,2026-01-02,Rahul,Mobile,Electronics,2,43961,East,87922
+ORD0219,2026-10-31,Anjali,Monitor,Office Equipment,8,28438,North,227504
+ORD0220,2026-09-11,Priya,Laptop,Office Equipment,2,40969,South,81938
+ORD0221,2026-05-20,Anjali,Laptop,Accessories,3,18100,West,54300
+ORD0222,2026-02-06,Rohit,Laptop,Electronics,10,20935,West,209350
+ORD0223,2026-06-09,Rahul,Laptop,Electronics,1,19081,West,19081
+ORD0224,2026-01-09,Vikas,Laptop,Accessories,2,14691,East,29382
+ORD0225,2026-08-21,Rohit,Laptop,Electronics,7,19690,South,137830
+ORD0226,2026-04-09,Neha,Mobile,Electronics,10,27886,South,278860
+ORD0227,2026-05-27,Neha,Mouse,Electronics,2,32221,North,64442
+ORD0228,2026-10-31,Anjali,Monitor,Electronics,6,14204,North,85224
+ORD0229,2026-07-27,Karan,Laptop,Electronics,3,2623,North,7869
+ORD0230,2026-05-11,Amit,Mobile,Accessories,4,25674,South,102696
+ORD0231,2026-06-01,Karan,Mobile,Electronics,8,44801,North,358408
+ORD0232,2026-02-23,Pooja,Mobile,Accessories,3,49876,South,149628
+ORD0233,2026-04-30,Karan,Mouse,Electronics,10,47716,South,477160
+ORD0234,2026-06-10,Pooja,Monitor,Office Equipment,6,15086,West,90516
+ORD0235,2026-04-26,Pooja,Mouse,Office Equipment,1,32476,North,32476
+ORD0236,2026-03-16,Vikas,Keyboard,Office Equipment,7,25916,West,181412
+ORD0237,2026-04-23,Rahul,Mobile,Office Equipment,8,2314,East,18512
+ORD0238,2026-04-14,Vikas,Keyboard,Accessories,8,13501,East,108008
+ORD0239,2026-09-11,Pooja,Printer,Accessories,3,17008,East,51024
+ORD0240,2026-08-15,Rohit,Laptop,Electronics,10,20130,South,201300
+ORD0241,2026-04-22,Neha,Laptop,Office Equipment,1,13880,South,13880
+ORD0242,2026-04-09,Pooja,Mouse,Accessories,9,48674,South,438066
+ORD0243,2026-06-02,Vikas,Monitor,Electronics,6,36199,North,217194
+ORD0244,2026-07-13,Rohit,Keyboard,Electronics,9,46835,West,421515
+ORD0245,2026-06-12,Vikas,Monitor,Accessories,7,47306,South,331142
+ORD0246,2026-07-27,Karan,Mouse,Office Equipment,1,12817,West,12817
+ORD0247,2026-06-18,Priya,Laptop,Electronics,1,36239,West,36239
+ORD0248,2026-06-10,Anjali,Monitor,Office Equipment,6,35285,West,211710
+ORD0249,2026-03-09,Amit,Monitor,Office Equipment,5,32480,North,162400
+ORD0250,2026-10-16,Vikas,Laptop,Office Equipment,9,24299,North,218691
+ORD0251,2026-10-04,Amit,Keyboard,Electronics,2,35683,East,71366
+ORD0252,2026-10-31,Sneha,Laptop,Office Equipment,8,29666,East,237328
+ORD0253,2026-05-15,Vikas,Monitor,Electronics,5,19980,West,99900
+ORD0254,2026-07-14,Priya,Keyboard,Office Equipment,2,2109,East,4218
+ORD0255,2026-05-08,Amit,Keyboard,Electronics,10,1217,West,12170
+ORD0256,2026-02-02,Pooja,Laptop,Office Equipment,6,20445,North,122670
+ORD0257,2026-06-25,Vikas,Monitor,Accessories,10,26092,North,260920
+ORD0258,2026-01-22,Rahul,Mouse,Office Equipment,8,28641,North,229128
+ORD0259,2026-08-26,Anjali,Monitor,Office Equipment,4,30509,South,122036
+ORD0260,2026-06-07,Priya,Mobile,Electronics,2,45930,West,91860
+ORD0261,2026-02-07,Amit,Printer,Electronics,5,7282,North,36410
+ORD0262,2026-08-18,Priya,Mouse,Office Equipment,2,27036,West,54072
+ORD0263,2026-02-20,Rohit,Keyboard,Accessories,2,34316,East,68632
+ORD0264,2026-09-21,Anjali,Mouse,Accessories,6,26433,East,158598
+ORD0265,2026-10-10,Pooja,Keyboard,Electronics,10,12118,North,121180
+ORD0266,2026-01-27,Vikas,Keyboard,Accessories,9,8807,West,79263
+ORD0267,2026-08-14,Vikas,Mouse,Office Equipment,4,27171,North,108684
+ORD0268,2026-10-04,Vikas,Keyboard,Electronics,6,41173,East,247038
+ORD0269,2026-10-13,Anjali,Keyboard,Office Equipment,7,43261,North,302827
+ORD0270,2026-04-07,Rahul,Mobile,Electronics,6,10838,West,65028
+ORD0271,2026-10-11,Sneha,Monitor,Electronics,8,38846,East,310768
+ORD0272,2026-10-31,Neha,Monitor,Electronics,4,47102,South,188408
+ORD0273,2026-05-27,Karan,Printer,Electronics,1,7048,East,7048
+ORD0274,2026-01-04,Amit,Printer,Accessories,7,40649,South,284543
+ORD0275,2026-02-04,Rahul,Mobile,Office Equipment,3,21664,North,64992
+ORD0276,2026-07-11,Pooja,Printer,Office Equipment,6,28026,North,168156
+ORD0277,2026-02-18,Amit,Mouse,Office Equipment,2,31722,West,63444
+ORD0278,2026-01-17,Vikas,Laptop,Electronics,9,20676,South,186084
+ORD0279,2026-06-21,Priya,Laptop,Accessories,1,3441,North,3441
+ORD0280,2026-08-08,Pooja,Laptop,Office Equipment,6,6195,South,37170
+ORD0281,2026-06-07,Amit,Mobile,Accessories,6,39669,North,238014
+ORD0282,2026-02-15,Vikas,Mobile,Electronics,5,48447,East,242235
+ORD0283,2026-01-06,Amit,Keyboard,Office Equipment,5,47724,North,238620
+ORD0284,2026-04-09,Priya,Laptop,Accessories,1,46365,West,46365
+ORD0285,2026-08-21,Vikas,Mouse,Electronics,10,26053,East,260530
+ORD0286,2026-02-06,Sneha,Printer,Accessories,5,39465,West,197325
+ORD0287,2026-10-07,Rahul,Mouse,Office Equipment,2,38718,East,77436
+ORD0288,2026-10-29,Rohit,Printer,Office Equipment,7,25859,South,181013
+ORD0289,2026-06-30,Karan,Laptop,Electronics,3,25316,West,75948
+ORD0290,2026-04-05,Anjali,Laptop,Electronics,4,8878,North,35512
+ORD0291,2026-04-09,Karan,Laptop,Electronics,3,2381,South,7143
+ORD0292,2026-07-07,Pooja,Mobile,Accessories,3,40067,North,120201
+ORD0293,2026-04-26,Karan,Printer,Accessories,4,47865,East,191460
+ORD0294,2026-07-10,Vikas,Mobile,Accessories,5,14175,East,70875
+ORD0295,2026-09-10,Sneha,Mobile,Electronics,1,5086,North,5086
+ORD0296,2026-06-10,Rohit,Monitor,Office Equipment,4,25506,North,102024
+ORD0297,2026-09-13,Rahul,Mouse,Office Equipment,8,41698,South,333584
+ORD0298,2026-05-08,Rahul,Mouse,Accessories,10,23331,North,233310
+ORD0299,2026-01-18,Priya,Keyboard,Accessories,7,35613,West,249291
+ORD0300,2026-10-08,Anjali,Mobile,Office Equipment,9,16959,West,152631
+ORD0301,2026-08-11,Amit,Printer,Office Equipment,5,32943,North,164715
+ORD0302,2026-02-23,Sneha,Monitor,Accessories,10,42816,West,428160
+ORD0303,2026-02-27,Amit,Monitor,Accessories,4,31095,North,124380
+ORD0304,2026-06-23,Rohit,Mouse,Office Equipment,8,6377,South,51016
+ORD0305,2026-10-07,Karan,Mobile,Electronics,9,40053,West,360477
+ORD0306,2026-04-24,Rahul,Keyboard,Accessories,7,49101,West,343707
+ORD0307,2026-10-15,Rohit,Mobile,Office Equipment,7,5422,North,37954
+ORD0308,2026-05-31,Karan,Laptop,Office Equipment,5,5186,West,25930
+ORD0309,2026-05-07,Rahul,Mobile,Office Equipment,4,33266,East,133064
+ORD0310,2026-06-04,Karan,Laptop,Office Equipment,10,14907,South,149070
+ORD0311,2026-09-30,Anjali,Laptop,Electronics,1,32506,South,32506
+ORD0312,2026-04-14,Sneha,Keyboard,Office Equipment,10,31922,West,319220
+ORD0313,2026-10-26,Pooja,Printer,Accessories,10,12705,West,127050
+ORD0314,2026-09-03,Rohit,Mouse,Electronics,7,21554,East,150878
+ORD0315,2026-06-25,Rohit,Mobile,Office Equipment,1,24027,East,24027
+ORD0316,2026-02-08,Neha,Laptop,Electronics,1,46447,West,46447
+ORD0317,2026-06-19,Vikas,Mobile,Accessories,5,18943,West,94715
+ORD0318,2026-09-04,Anjali,Printer,Office Equipment,9,17024,East,153216
+ORD0319,2026-01-26,Anjali,Mouse,Accessories,6,28702,North,172212
+ORD0320,2026-01-13,Amit,Printer,Office Equipment,3,516,East,1548
+ORD0321,2026-02-05,Karan,Mouse,Office Equipment,3,46642,North,139926
+ORD0322,2026-06-22,Vikas,Monitor,Office Equipment,7,17348,South,121436
+ORD0323,2026-01-20,Sneha,Mouse,Office Equipment,6,21355,South,128130
+ORD0324,2026-09-21,Sneha,Keyboard,Office Equipment,9,18711,East,168399
+ORD0325,2026-05-22,Anjali,Printer,Electronics,6,25595,North,153570
+ORD0326,2026-05-23,Sneha,Laptop,Office Equipment,5,39224,East,196120
+ORD0327,2026-04-02,Neha,Monitor,Office Equipment,10,49741,East,497410
+ORD0328,2026-10-15,Rohit,Keyboard,Electronics,7,38083,North,266581
+ORD0329,2026-08-03,Priya,Mobile,Electronics,1,3343,East,3343
+ORD0330,2026-02-20,Pooja,Printer,Electronics,7,29801,South,208607
+ORD0331,2026-06-02,Amit,Laptop,Electronics,3,26960,West,80880
+ORD0332,2026-07-05,Karan,Mouse,Electronics,9,32418,West,291762
+ORD0333,2026-03-04,Pooja,Laptop,Electronics,6,29247,East,175482
+ORD0334,2026-07-09,Karan,Mobile,Office Equipment,9,16472,North,148248
+ORD0335,2026-05-05,Rahul,Monitor,Office Equipment,5,28810,North,144050
+ORD0336,2026-05-30,Pooja,Monitor,Accessories,7,23427,South,163989
+ORD0337,2026-02-27,Priya,Printer,Office Equipment,4,1594,North,6376
+ORD0338,2026-06-29,Anjali,Monitor,Office Equipment,7,39392,North,275744
+ORD0339,2026-06-19,Neha,Printer,Electronics,1,34672,South,34672
+ORD0340,2026-09-28,Rohit,Printer,Electronics,7,23824,East,166768
+ORD0341,2026-02-23,Rohit,Printer,Office Equipment,8,21174,West,169392
+ORD0342,2026-04-11,Neha,Mouse,Accessories,5,4482,South,22410
+ORD0343,2026-09-21,Vikas,Keyboard,Electronics,2,45783,East,91566
+ORD0344,2026-02-22,Rahul,Printer,Office Equipment,5,16290,South,81450
+ORD0345,2026-03-01,Karan,Printer,Office Equipment,6,12705,East,76230
+ORD0346,2026-04-18,Priya,Keyboard,Accessories,2,24838,South,49676
+ORD0347,2026-01-05,Sneha,Laptop,Accessories,6,13248,East,79488
+ORD0348,2026-04-13,Pooja,Printer,Electronics,6,21597,South,129582
+ORD0349,2026-07-15,Rahul,Mouse,Accessories,1,3592,East,3592
+ORD0350,2026-09-19,Pooja,Monitor,Office Equipment,1,23192,South,23192
+ORD0351,2026-02-16,Priya,Monitor,Office Equipment,10,24362,West,243620
+ORD0352,2026-05-24,Amit,Mobile,Accessories,3,25360,West,76080
+ORD0353,2026-09-26,Amit,Mobile,Accessories,10,14471,North,144710
+ORD0354,2026-05-04,Rahul,Monitor,Accessories,10,15116,East,151160
+ORD0355,2026-04-16,Anjali,Monitor,Accessories,3,5433,South,16299
+ORD0356,2026-06-07,Priya,Mouse,Electronics,4,5426,East,21704
+ORD0357,2026-05-27,Priya,Keyboard,Accessories,2,26263,West,52526
+ORD0358,2026-05-25,Neha,Mobile,Electronics,9,4469,East,40221
+ORD0359,2026-04-30,Anjali,Keyboard,Office Equipment,10,36233,South,362330
+ORD0360,2026-10-02,Karan,Mouse,Accessories,7,4819,East,33733
+ORD0361,2026-04-02,Karan,Monitor,Electronics,7,42243,South,295701
+ORD0362,2026-02-27,Sneha,Printer,Accessories,6,40376,West,242256
+ORD0363,2026-08-17,Rohit,Keyboard,Office Equipment,3,42409,West,127227
+ORD0364,2026-04-27,Amit,Monitor,Office Equipment,6,20823,West,124938
+ORD0365,2026-10-06,Karan,Monitor,Office Equipment,8,16928,North,135424
+ORD0366,2026-05-07,Anjali,Laptop,Accessories,8,35078,West,280624
+ORD0367,2026-05-09,Priya,Keyboard,Accessories,9,21450,East,193050
+ORD0368,2026-02-27,Karan,Printer,Electronics,1,43541,North,43541
+ORD0369,2026-05-02,Priya,Keyboard,Office Equipment,1,42289,West,42289
+ORD0370,2026-01-01,Karan,Monitor,Accessories,3,18793,East,56379
+ORD0371,2026-08-27,Amit,Printer,Office Equipment,3,6864,East,20592
+ORD0372,2026-10-17,Pooja,Mouse,Office Equipment,10,35849,East,358490
+ORD0373,2026-04-06,Karan,Laptop,Electronics,8,1191,South,9528
+ORD0374,2026-05-06,Anjali,Monitor,Electronics,10,30562,North,305620
+ORD0375,2026-04-28,Karan,Mobile,Electronics,1,1431,East,1431
+ORD0376,2026-02-17,Rohit,Mobile,Electronics,2,46396,South,92792
+ORD0377,2026-03-30,Amit,Laptop,Office Equipment,2,32230,West,64460
+ORD0378,2026-08-25,Anjali,Mouse,Electronics,3,14726,East,44178
+ORD0379,2026-09-29,Neha,Monitor,Electronics,6,14361,South,86166
+ORD0380,2026-07-08,Anjali,Keyboard,Electronics,1,31801,East,31801
+ORD0381,2026-07-11,Rohit,Laptop,Electronics,2,48743,North,97486
+ORD0382,2026-03-10,Pooja,Mouse,Office Equipment,1,23266,North,23266
+ORD0383,2026-10-05,Amit,Keyboard,Electronics,5,36674,West,183370
+ORD0384,2026-09-04,Neha,Mobile,Office Equipment,7,41607,East,291249
+ORD0385,2026-03-17,Rohit,Mobile,Accessories,8,18195,South,145560
+ORD0386,2026-06-03,Rohit,Keyboard,Office Equipment,10,41847,West,418470
+ORD0387,2026-05-24,Rahul,Laptop,Office Equipment,1,3621,East,3621
+ORD0388,2026-03-27,Amit,Mobile,Electronics,7,18757,West,131299
+ORD0389,2026-07-04,Anjali,Monitor,Accessories,5,28664,South,143320
+ORD0390,2026-10-12,Priya,Printer,Accessories,10,25991,West,259910
+ORD0391,2026-08-08,Pooja,Keyboard,Accessories,1,23665,West,23665
+ORD0392,2026-03-10,Priya,Keyboard,Accessories,3,49214,West,147642
+ORD0393,2026-02-16,Anjali,Mobile,Office Equipment,7,4248,East,29736
+ORD0394,2026-04-04,Anjali,Laptop,Accessories,10,33545,South,335450
+ORD0395,2026-08-26,Amit,Monitor,Office Equipment,1,27053,North,27053
+ORD0396,2026-07-23,Anjali,Laptop,Office Equipment,7,44831,East,313817
+ORD0397,2026-08-06,Rahul,Mouse,Office Equipment,5,30997,North,154985
+ORD0398,2026-02-08,Neha,Mouse,Accessories,1,31808,North,31808
+ORD0399,2026-04-10,Anjali,Printer,Electronics,1,40060,East,40060
+ORD0400,2026-10-16,Priya,Mobile,Electronics,1,47186,East,47186
+ORD0401,2026-09-11,Anjali,Mobile,Accessories,9,10874,South,97866
+ORD0402,2026-08-10,Rahul,Mobile,Electronics,3,5175,South,15525
+ORD0403,2026-01-23,Karan,Printer,Electronics,5,1670,West,8350
+ORD0404,2026-09-07,Karan,Mouse,Office Equipment,10,41949,North,419490
+ORD0405,2026-01-10,Rohit,Laptop,Office Equipment,9,43985,South,395865
+ORD0406,2026-09-03,Pooja,Printer,Accessories,6,12950,West,77700
+ORD0407,2026-04-10,Sneha,Printer,Accessories,9,11180,South,100620
+ORD0408,2026-10-17,Neha,Laptop,Electronics,8,10568,East,84544
+ORD0409,2026-06-29,Vikas,Mobile,Office Equipment,8,35730,South,285840
+ORD0410,2026-08-11,Rohit,Monitor,Accessories,1,46918,North,46918
+ORD0411,2026-09-07,Pooja,Laptop,Accessories,9,26706,South,240354
+ORD0412,2026-05-27,Karan,Mouse,Accessories,6,787,North,4722
+ORD0413,2026-04-06,Priya,Keyboard,Accessories,9,22837,East,205533
+ORD0414,2026-09-14,Vikas,Keyboard,Accessories,3,21166,North,63498
+ORD0415,2026-01-04,Pooja,Printer,Accessories,3,1661,South,4983
+ORD0416,2026-01-16,Pooja,Keyboard,Electronics,6,49781,West,298686
+ORD0417,2026-10-07,Rohit,Monitor,Office Equipment,9,35631,East,320679
+ORD0418,2026-09-04,Vikas,Mobile,Office Equipment,7,25035,South,175245
+ORD0419,2026-09-15,Amit,Mouse,Accessories,3,33028,East,99084
+ORD0420,2026-06-09,Sneha,Monitor,Office Equipment,3,39251,East,117753
+ORD0421,2026-06-01,Amit,Mouse,Office Equipment,2,17027,South,34054
+ORD0422,2026-06-27,Vikas,Mouse,Office Equipment,9,41475,South,373275
+ORD0423,2026-06-12,Amit,Mobile,Accessories,3,24353,West,73059
+ORD0424,2026-02-02,Rahul,Printer,Accessories,5,15258,East,76290
+ORD0425,2026-06-28,Karan,Keyboard,Office Equipment,9,744,East,6696
+ORD0426,2026-04-11,Rahul,Mobile,Office Equipment,8,3678,South,29424
+ORD0427,2026-09-25,Anjali,Monitor,Accessories,2,32331,North,64662
+ORD0428,2026-03-06,Amit,Printer,Electronics,3,2676,South,8028
+ORD0429,2026-06-17,Anjali,Monitor,Office Equipment,2,38270,East,76540
+ORD0430,2026-02-12,Priya,Printer,Electronics,8,34154,South,273232
+ORD0431,2026-02-13,Neha,Monitor,Office Equipment,6,27127,West,162762
+ORD0432,2026-10-12,Priya,Mobile,Electronics,6,46989,North,281934
+ORD0433,2026-01-12,Vikas,Printer,Electronics,9,45410,South,408690
+ORD0434,2026-04-05,Pooja,Printer,Electronics,8,25381,West,203048
+ORD0435,2026-10-29,Karan,Mouse,Accessories,4,35922,East,143688
+ORD0436,2026-09-10,Amit,Mouse,Electronics,4,12484,South,49936
+ORD0437,2026-08-30,Rohit,Laptop,Electronics,9,24276,East,218484
+ORD0438,2026-02-04,Neha,Monitor,Electronics,1,18255,West,18255
+ORD0439,2026-08-03,Sneha,Mouse,Office Equipment,2,7635,East,15270
+ORD0440,2026-03-31,Sneha,Laptop,Electronics,2,820,West,1640
+ORD0441,2026-09-21,Sneha,Mouse,Office Equipment,6,37922,West,227532
+ORD0442,2026-04-03,Amit,Monitor,Electronics,4,29135,West,116540
+ORD0443,2026-03-31,Sneha,Printer,Electronics,10,22184,South,221840
+ORD0444,2026-04-25,Rahul,Keyboard,Accessories,3,23738,East,71214
+ORD0445,2026-04-15,Neha,Monitor,Office Equipment,3,22389,East,67167
+ORD0446,2026-07-15,Rahul,Mobile,Electronics,3,30813,North,92439
+ORD0447,2026-04-24,Pooja,Mouse,Office Equipment,6,33035,North,198210
+ORD0448,2026-03-16,Neha,Mouse,Office Equipment,8,49399,North,395192
+ORD0449,2026-08-05,Rahul,Printer,Accessories,7,11270,North,78890
+ORD0450,2026-10-04,Neha,Mobile,Accessories,4,39821,East,159284
+ORD0451,2026-09-06,Pooja,Printer,Accessories,4,20926,West,83704
+ORD0452,2026-06-13,Anjali,Mobile,Accessories,10,44827,West,448270
+ORD0453,2026-07-11,Amit,Keyboard,Accessories,2,42277,South,84554
+ORD0454,2026-08-15,Amit,Mouse,Accessories,1,46750,West,46750
+ORD0455,2026-06-26,Sneha,Mouse,Accessories,9,7998,East,71982
+ORD0456,2026-04-09,Priya,Keyboard,Accessories,2,39904,East,79808
+ORD0457,2026-02-05,Sneha,Laptop,Electronics,8,40630,East,325040
+ORD0458,2026-04-06,Vikas,Printer,Office Equipment,9,16895,South,152055
+ORD0459,2026-06-01,Rahul,Keyboard,Accessories,4,49846,North,199384
+ORD0460,2026-05-31,Neha,Printer,Accessories,8,3037,West,24296
+ORD0461,2026-07-09,Priya,Monitor,Office Equipment,9,19726,East,177534
+ORD0462,2026-08-12,Pooja,Mouse,Electronics,10,15716,East,157160
+ORD0463,2026-02-06,Vikas,Printer,Office Equipment,10,19113,North,191130
+ORD0464,2026-09-25,Pooja,Mobile,Office Equipment,5,3509,East,17545
+ORD0465,2026-07-02,Amit,Printer,Accessories,7,24868,West,174076
+ORD0466,2026-01-13,Amit,Monitor,Office Equipment,10,29827,South,298270
+ORD0467,2026-10-06,Sneha,Mouse,Office Equipment,4,14709,East,58836
+ORD0468,2026-08-05,Rahul,Keyboard,Accessories,1,48943,West,48943
+ORD0469,2026-10-13,Priya,Monitor,Accessories,3,15529,East,46587
+ORD0470,2026-09-30,Karan,Mouse,Accessories,5,2577,North,12885
+ORD0471,2026-03-03,Vikas,Printer,Accessories,3,14407,East,43221
+ORD0472,2026-03-25,Vikas,Laptop,Office Equipment,7,37135,East,259945
+ORD0473,2026-08-05,Sneha,Laptop,Office Equipment,9,49420,South,444780
+ORD0474,2026-07-06,Amit,Mobile,Electronics,6,5373,North,32238
+ORD0475,2026-01-19,Sneha,Mouse,Electronics,10,9135,North,91350
+ORD0476,2026-06-26,Neha,Laptop,Office Equipment,1,33565,South,33565
+ORD0477,2026-04-10,Priya,Keyboard,Electronics,7,46363,East,324541
+ORD0478,2026-08-21,Rahul,Mouse,Office Equipment,3,42304,West,126912
+ORD0479,2026-03-17,Anjali,Keyboard,Electronics,5,34283,North,171415
+ORD0480,2026-09-22,Rohit,Keyboard,Accessories,10,34652,North,346520
+ORD0481,2026-10-11,Rohit,Laptop,Electronics,4,42013,East,168052
+ORD0482,2026-07-25,Sneha,Mouse,Accessories,10,29592,East,295920
+ORD0483,2026-08-11,Neha,Printer,Accessories,5,18153,North,90765
+ORD0484,2026-02-21,Priya,Monitor,Accessories,5,32963,East,164815
+ORD0485,2026-05-24,Karan,Laptop,Accessories,6,34528,West,207168
+ORD0486,2026-03-10,Rohit,Laptop,Electronics,10,40969,North,409690
+ORD0487,2026-04-09,Priya,Printer,Office Equipment,10,21447,West,214470
+ORD0488,2026-01-25,Rahul,Mouse,Accessories,6,30478,West,182868
+ORD0489,2026-02-22,Pooja,Mouse,Electronics,8,22556,East,180448
+ORD0490,2026-05-31,Neha,Keyboard,Accessories,8,29507,West,236056
+ORD0491,2026-05-24,Amit,Printer,Electronics,9,43669,East,393021
+ORD0492,2026-02-26,Priya,Printer,Electronics,8,48787,South,390296
+ORD0493,2026-02-08,Rahul,Mouse,Electronics,2,45132,East,90264
+ORD0494,2026-04-19,Karan,Keyboard,Office Equipment,10,48949,West,489490
+ORD0495,2026-06-30,Anjali,Laptop,Electronics,1,6043,South,6043
+ORD0496,2026-02-11,Amit,Mobile,Electronics,10,21567,East,215670
+ORD0497,2026-07-05,Anjali,Monitor,Office Equipment,2,45756,West,91512
+ORD0498,2026-08-11,Karan,Laptop,Office Equipment,2,25597,North,51194
+ORD0499,2026-05-02,Rahul,Mouse,Electronics,3,43347,North,130041
+ORD0500,2026-05-13,Rohit,Monitor,Office Equipment,10,44012,East,440120
+ORD0501,2026-06-12,Anjali,Mobile,Accessories,7,4309,East,30163
+ORD0502,2026-08-03,Amit,Mobile,Accessories,2,22691,North,45382
+ORD0503,2026-08-09,Sneha,Keyboard,Office Equipment,1,21767,West,21767
+ORD0504,2026-08-23,Vikas,Monitor,Office Equipment,6,7706,West,46236
+ORD0505,2026-05-26,Priya,Keyboard,Electronics,9,21557,West,194013
+ORD0506,2026-08-27,Rohit,Laptop,Office Equipment,3,29492,East,88476
+ORD0507,2026-03-17,Anjali,Printer,Electronics,6,47014,South,282084
+ORD0508,2026-01-09,Pooja,Printer,Accessories,3,16495,South,49485
+ORD0509,2026-03-15,Priya,Printer,Office Equipment,1,49303,South,49303
+ORD0510,2026-09-10,Sneha,Monitor,Electronics,5,44939,South,224695
+ORD0511,2026-08-18,Karan,Printer,Electronics,10,13710,South,137100
+ORD0512,2026-01-07,Vikas,Laptop,Accessories,4,18293,East,73172
+ORD0513,2026-06-23,Rahul,Keyboard,Office Equipment,7,26770,East,187390
+ORD0514,2026-05-21,Sneha,Monitor,Accessories,6,5697,South,34182
+ORD0515,2026-06-17,Sneha,Keyboard,Electronics,10,48821,East,488210
+ORD0516,2026-06-19,Karan,Monitor,Electronics,7,7952,East,55664
+ORD0517,2026-10-10,Neha,Keyboard,Office Equipment,5,41986,South,209930
+ORD0518,2026-05-02,Karan,Mobile,Electronics,4,15359,West,61436
+ORD0519,2026-07-13,Neha,Keyboard,Office Equipment,7,27736,East,194152
+ORD0520,2026-01-05,Neha,Printer,Accessories,7,32399,West,226793
+ORD0521,2026-01-29,Rohit,Mobile,Office Equipment,6,32583,East,195498
+ORD0522,2026-06-14,Rohit,Keyboard,Office Equipment,8,2672,East,21376
+ORD0523,2026-05-16,Amit,Monitor,Electronics,4,46426,South,185704
+ORD0524,2026-05-25,Anjali,Monitor,Electronics,10,17163,East,171630
+ORD0525,2026-08-05,Anjali,Monitor,Office Equipment,5,28040,North,140200
+ORD0526,2026-10-28,Rahul,Mouse,Electronics,4,19553,North,78212
+ORD0527,2026-05-12,Anjali,Laptop,Electronics,1,11585,South,11585
+ORD0528,2026-10-19,Rohit,Monitor,Electronics,8,31064,West,248512
+ORD0529,2026-03-11,Amit,Mobile,Office Equipment,1,24709,West,24709
+ORD0530,2026-09-09,Amit,Monitor,Electronics,5,4481,West,22405
+ORD0531,2026-10-02,Neha,Mouse,Office Equipment,6,21653,North,129918
+ORD0532,2026-07-01,Karan,Printer,Electronics,6,5747,West,34482
+ORD0533,2026-06-16,Rahul,Mobile,Accessories,5,11053,West,55265
+ORD0534,2026-04-01,Neha,Mouse,Electronics,3,21311,South,63933
+ORD0535,2026-07-21,Karan,Printer,Electronics,5,30345,West,151725
+ORD0536,2026-01-19,Anjali,Mobile,Office Equipment,8,6635,North,53080
+ORD0537,2026-02-08,Neha,Keyboard,Office Equipment,2,6073,North,12146
+ORD0538,2026-05-06,Priya,Laptop,Electronics,6,14231,North,85386
+ORD0539,2026-06-22,Anjali,Laptop,Accessories,9,7689,South,69201
+ORD0540,2026-05-21,Karan,Mouse,Electronics,8,15041,South,120328
+ORD0541,2026-08-30,Rahul,Printer,Electronics,8,44146,East,353168
+ORD0542,2026-08-08,Karan,Laptop,Accessories,8,11587,West,92696
+ORD0543,2026-05-06,Neha,Printer,Office Equipment,7,46935,South,328545
+ORD0544,2026-02-27,Neha,Printer,Electronics,8,3276,North,26208
+ORD0545,2026-05-28,Sneha,Mouse,Office Equipment,6,42579,North,255474
+ORD0546,2026-01-01,Rahul,Mouse,Office Equipment,2,28064,South,56128
+ORD0547,2026-07-09,Pooja,Mouse,Accessories,2,29335,South,58670
+ORD0548,2026-07-10,Anjali,Laptop,Accessories,8,8197,South,65576
+ORD0549,2026-04-27,Amit,Mouse,Office Equipment,1,15129,East,15129
+ORD0550,2026-05-14,Rahul,Laptop,Electronics,6,8886,North,53316
+ORD0551,2026-02-27,Amit,Mouse,Office Equipment,6,17546,East,105276
+ORD0552,2026-02-13,Rahul,Monitor,Electronics,4,8544,East,34176
+ORD0553,2026-06-22,Rahul,Printer,Electronics,10,10115,West,101150
+ORD0554,2026-06-09,Karan,Mouse,Accessories,3,48302,North,144906
+ORD0555,2026-06-22,Rahul,Mobile,Electronics,3,5560,North,16680
+ORD0556,2026-10-30,Sneha,Printer,Electronics,1,11400,South,11400
+ORD0557,2026-05-29,Pooja,Printer,Office Equipment,3,6081,South,18243
+ORD0558,2026-03-21,Neha,Mouse,Accessories,4,35282,West,141128
+ORD0559,2026-08-01,Vikas,Keyboard,Electronics,5,20673,East,103365
+ORD0560,2026-07-22,Amit,Mouse,Electronics,3,13497,South,40491
+ORD0561,2026-09-09,Neha,Printer,Accessories,6,43903,South,263418
+ORD0562,2026-08-17,Vikas,Mobile,Office Equipment,5,46916,North,234580
+ORD0563,2026-06-13,Pooja,Printer,Accessories,3,7648,North,22944
+ORD0564,2026-08-15,Pooja,Mobile,Accessories,6,19248,South,115488
+ORD0565,2026-05-27,Amit,Laptop,Electronics,6,14522,North,87132
+ORD0566,2026-01-20,Amit,Monitor,Electronics,8,20513,West,164104
+ORD0567,2026-02-16,Pooja,Printer,Office Equipment,2,39187,South,78374
+ORD0568,2026-08-21,Vikas,Mouse,Electronics,1,16386,North,16386
+ORD0569,2026-01-14,Rahul,Laptop,Electronics,4,25756,West,103024
+ORD0570,2026-05-23,Anjali,Monitor,Accessories,7,30505,North,213535
+ORD0571,2026-01-01,Priya,Mouse,Electronics,10,7138,North,71380
+ORD0572,2026-02-23,Neha,Keyboard,Office Equipment,3,37919,North,113757
+ORD0573,2026-09-16,Karan,Mouse,Accessories,3,33877,South,101631
+ORD0574,2026-05-24,Neha,Mobile,Office Equipment,5,41208,East,206040
+ORD0575,2026-01-12,Karan,Mobile,Accessories,5,43616,North,218080
+ORD0576,2026-08-12,Vikas,Keyboard,Electronics,10,37134,West,371340
+ORD0577,2026-09-29,Karan,Laptop,Accessories,3,17255,South,51765
+ORD0578,2026-06-05,Amit,Monitor,Accessories,9,23882,South,214938
+ORD0579,2026-01-08,Anjali,Mouse,Electronics,4,22894,West,91576
+ORD0580,2026-05-02,Anjali,Mobile,Electronics,3,2753,North,8259
+ORD0581,2026-06-13,Amit,Laptop,Office Equipment,2,38210,East,76420
+ORD0582,2026-03-31,Sneha,Keyboard,Office Equipment,10,45598,North,455980
+ORD0583,2026-05-16,Vikas,Printer,Electronics,9,1364,West,12276
+ORD0584,2026-07-05,Sneha,Mobile,Electronics,4,34536,South,138144
+ORD0585,2026-06-27,Sneha,Keyboard,Electronics,3,40722,East,122166
+ORD0586,2026-01-28,Neha,Mouse,Accessories,7,14166,South,99162
+ORD0587,2026-08-08,Pooja,Monitor,Accessories,8,21455,West,171640
+ORD0588,2026-02-10,Neha,Mobile,Accessories,2,45638,North,91276
+ORD0589,2026-08-16,Pooja,Mobile,Electronics,7,38497,East,269479
+ORD0590,2026-07-11,Priya,Mouse,Office Equipment,5,16809,South,84045
+ORD0591,2026-05-25,Karan,Printer,Electronics,5,4554,South,22770
+ORD0592,2026-07-20,Pooja,Laptop,Accessories,3,1435,South,4305
+ORD0593,2026-07-31,Amit,Monitor,Accessories,5,45440,North,227200
+ORD0594,2026-08-08,Neha,Mobile,Electronics,2,23278,East,46556
+ORD0595,2026-08-28,Vikas,Monitor,Electronics,4,43798,North,175192
+ORD0596,2026-02-15,Karan,Mobile,Accessories,6,48828,North,292968
+ORD0597,2026-02-04,Priya,Monitor,Accessories,1,49424,North,49424
+ORD0598,2026-09-10,Pooja,Keyboard,Accessories,10,17209,West,172090
+ORD0599,2026-03-23,Priya,Mobile,Electronics,4,10226,West,40904
+ORD0600,2026-09-13,Vikas,Monitor,Accessories,6,41042,West,246252
+ORD0601,2026-07-16,Sneha,Laptop,Accessories,9,20745,East,186705
+ORD0602,2026-10-30,Anjali,Keyboard,Office Equipment,2,35253,North,70506
+ORD0603,2026-01-10,Vikas,Keyboard,Electronics,7,14752,North,103264
+ORD0604,2026-10-13,Rohit,Laptop,Office Equipment,6,21816,West,130896
+ORD0605,2026-08-30,Vikas,Monitor,Office Equipment,2,37871,North,75742
+ORD0606,2026-09-08,Priya,Mouse,Accessories,8,19662,North,157296
+ORD0607,2026-01-05,Amit,Laptop,Electronics,7,16460,South,115220
+ORD0608,2026-04-29,Neha,Monitor,Accessories,5,31291,North,156455
+ORD0609,2026-10-16,Amit,Laptop,Electronics,5,42730,South,213650
+ORD0610,2026-03-06,Priya,Laptop,Office Equipment,7,25716,North,180012
+ORD0611,2026-05-26,Neha,Mobile,Electronics,9,32967,East,296703
+ORD0612,2026-08-12,Rohit,Monitor,Accessories,9,47434,West,426906
+ORD0613,2026-08-27,Anjali,Mouse,Accessories,9,8254,South,74286
+ORD0614,2026-06-26,Karan,Mobile,Accessories,6,47514,West,285084
+ORD0615,2026-09-24,Priya,Laptop,Electronics,10,4578,South,45780
+ORD0616,2026-10-09,Pooja,Printer,Office Equipment,6,13353,South,80118
+ORD0617,2026-03-04,Priya,Laptop,Office Equipment,3,4542,South,13626
+ORD0618,2026-08-05,Priya,Laptop,Electronics,1,49552,East,49552
+ORD0619,2026-10-10,Neha,Monitor,Accessories,7,14889,North,104223
+ORD0620,2026-06-26,Rahul,Monitor,Office Equipment,4,30925,South,123700
+ORD0621,2026-04-08,Vikas,Mobile,Accessories,1,3075,East,3075
+ORD0622,2026-04-15,Rahul,Mouse,Electronics,8,40022,South,320176
+ORD0623,2026-04-09,Rohit,Mobile,Accessories,6,28679,North,172074
+ORD0624,2026-01-06,Pooja,Keyboard,Office Equipment,6,35254,South,211524
+ORD0625,2026-07-16,Anjali,Laptop,Office Equipment,2,19124,East,38248
+ORD0626,2026-05-13,Sneha,Printer,Accessories,1,20850,North,20850
+ORD0627,2026-09-16,Rohit,Laptop,Electronics,2,27181,East,54362
+ORD0628,2026-01-23,Sneha,Laptop,Accessories,4,24488,North,97952
+ORD0629,2026-02-22,Sneha,Mobile,Electronics,2,15970,North,31940
+ORD0630,2026-06-14,Anjali,Printer,Accessories,1,25204,West,25204
+ORD0631,2026-07-21,Amit,Printer,Office Equipment,7,39236,West,274652
+ORD0632,2026-03-24,Rahul,Printer,Electronics,8,29877,West,239016
+ORD0633,2026-05-25,Priya,Mobile,Electronics,6,29072,North,174432
+ORD0634,2026-03-26,Karan,Laptop,Electronics,4,7993,South,31972
+ORD0635,2026-03-19,Sneha,Mobile,Office Equipment,6,4603,East,27618
+ORD0636,2026-01-01,Pooja,Monitor,Accessories,3,35344,East,106032
+ORD0637,2026-02-20,Rohit,Monitor,Office Equipment,8,3494,East,27952
+ORD0638,2026-06-22,Amit,Mobile,Electronics,10,4244,West,42440
+ORD0639,2026-07-24,Sneha,Printer,Accessories,2,47734,North,95468
+ORD0640,2026-09-17,Amit,Laptop,Office Equipment,5,47791,West,238955
+ORD0641,2026-10-15,Amit,Mobile,Electronics,1,27832,South,27832
+ORD0642,2026-02-03,Sneha,Mobile,Electronics,6,6094,North,36564
+ORD0643,2026-04-05,Neha,Mobile,Office Equipment,2,40799,East,81598
+ORD0644,2026-03-13,Vikas,Keyboard,Office Equipment,4,7871,West,31484
+ORD0645,2026-02-08,Pooja,Monitor,Office Equipment,6,47815,West,286890
+ORD0646,2026-06-03,Priya,Printer,Electronics,10,18528,South,185280
+ORD0647,2026-09-07,Priya,Mouse,Office Equipment,8,36412,South,291296
+ORD0648,2026-06-11,Pooja,Printer,Electronics,8,14490,West,115920
+ORD0649,2026-04-28,Neha,Mouse,Office Equipment,6,47351,South,284106
+ORD0650,2026-09-16,Priya,Keyboard,Electronics,4,17126,East,68504
+ORD0651,2026-09-25,Amit,Mobile,Electronics,8,20969,South,167752
+ORD0652,2026-02-23,Anjali,Keyboard,Accessories,8,41222,South,329776
+ORD0653,2026-08-24,Rohit,Keyboard,Office Equipment,10,40537,West,405370
+ORD0654,2026-08-10,Rahul,Laptop,Office Equipment,1,7630,West,7630
+ORD0655,2026-09-08,Priya,Monitor,Electronics,4,7328,North,29312
+ORD0656,2026-04-22,Pooja,Mouse,Electronics,4,42112,North,168448
+ORD0657,2026-09-12,Anjali,Mobile,Electronics,7,47488,West,332416
+ORD0658,2026-10-30,Sneha,Mouse,Accessories,7,39599,South,277193
+ORD0659,2026-07-26,Vikas,Printer,Accessories,8,46665,South,373320
+ORD0660,2026-08-17,Pooja,Mouse,Electronics,5,18383,North,91915
+ORD0661,2026-03-07,Amit,Printer,Office Equipment,7,43559,North,304913
+ORD0662,2026-03-16,Vikas,Monitor,Office Equipment,8,19042,North,152336
+ORD0663,2026-04-13,Rohit,Printer,Accessories,9,43432,East,390888
+ORD0664,2026-07-11,Rohit,Mouse,Accessories,3,10950,East,32850
+ORD0665,2026-09-09,Neha,Mouse,Electronics,3,20923,North,62769
+ORD0666,2026-08-14,Karan,Printer,Office Equipment,4,2535,South,10140
+ORD0667,2026-10-21,Neha,Keyboard,Electronics,5,44731,North,223655
+ORD0668,2026-04-08,Anjali,Monitor,Accessories,10,41245,East,412450
+ORD0669,2026-10-13,Vikas,Laptop,Office Equipment,1,17741,South,17741
+ORD0670,2026-09-06,Karan,Mobile,Office Equipment,7,23654,East,165578
+ORD0671,2026-06-15,Sneha,Mouse,Accessories,9,26125,South,235125
+ORD0672,2026-01-30,Amit,Mobile,Electronics,8,45450,East,363600
+ORD0673,2026-09-04,Vikas,Laptop,Electronics,5,33566,South,167830
+ORD0674,2026-04-16,Neha,Mobile,Office Equipment,4,34191,South,136764
+ORD0675,2026-02-20,Rahul,Laptop,Accessories,7,13831,South,96817
+ORD0676,2026-03-22,Karan,Printer,Office Equipment,5,21190,South,105950
+ORD0677,2026-05-13,Karan,Keyboard,Accessories,7,19683,West,137781
+ORD0678,2026-10-12,Amit,Mouse,Electronics,1,39846,East,39846
+ORD0679,2026-05-18,Priya,Laptop,Accessories,1,5375,East,5375
+ORD0680,2026-07-03,Rohit,Mobile,Electronics,10,12754,West,127540
+ORD0681,2026-09-30,Rohit,Mouse,Accessories,3,29121,South,87363
+ORD0682,2026-03-10,Rahul,Keyboard,Office Equipment,2,11405,South,22810
+ORD0683,2026-02-03,Anjali,Printer,Electronics,2,46621,East,93242
+ORD0684,2026-09-19,Anjali,Mouse,Office Equipment,7,16382,West,114674
+ORD0685,2026-02-22,Sneha,Laptop,Office Equipment,10,19541,South,195410
+ORD0686,2026-07-24,Vikas,Keyboard,Electronics,2,29598,South,59196
+ORD0687,2026-05-06,Pooja,Mobile,Electronics,4,42931,South,171724
+ORD0688,2026-08-23,Priya,Keyboard,Office Equipment,2,34209,North,68418
+ORD0689,2026-02-12,Neha,Keyboard,Office Equipment,6,35175,West,211050
+ORD0690,2026-08-28,Pooja,Monitor,Office Equipment,8,5337,South,42696
+ORD0691,2026-04-21,Pooja,Keyboard,Office Equipment,10,46948,North,469480
+ORD0692,2026-09-06,Karan,Keyboard,Electronics,4,24989,West,99956
+ORD0693,2026-05-31,Rahul,Mouse,Electronics,5,18127,South,90635
+ORD0694,2026-07-02,Rohit,Mobile,Office Equipment,4,6196,East,24784
+ORD0695,2026-04-05,Sneha,Mouse,Accessories,3,49494,North,148482
+ORD0696,2026-01-08,Anjali,Mouse,Accessories,5,14043,North,70215
+ORD0697,2026-07-03,Rahul,Laptop,Electronics,9,13115,South,118035
+ORD0698,2026-10-08,Karan,Mouse,Office Equipment,8,1966,South,15728
+ORD0699,2026-07-14,Neha,Monitor,Office Equipment,8,31271,North,250168
+ORD0700,2026-07-14,Sneha,Monitor,Electronics,8,18850,East,150800
+ORD0701,2026-06-04,Karan,Laptop,Accessories,8,875,East,7000
+ORD0702,2026-04-03,Rohit,Printer,Accessories,7,33530,West,234710
+ORD0703,2026-06-09,Rohit,Mobile,Accessories,8,21246,South,169968
+ORD0704,2026-03-02,Rohit,Mobile,Electronics,8,23386,East,187088
+ORD0705,2026-05-02,Rahul,Mouse,Accessories,8,44848,West,358784
+ORD0706,2026-02-20,Rahul,Mouse,Electronics,10,43404,East,434040
+ORD0707,2026-10-04,Anjali,Printer,Electronics,7,33151,South,232057
+ORD0708,2026-01-05,Anjali,Mouse,Office Equipment,1,8333,West,8333
+ORD0709,2026-04-02,Neha,Mobile,Accessories,4,2393,West,9572
+ORD0710,2026-06-19,Sneha,Keyboard,Electronics,4,31073,West,124292
+ORD0711,2026-01-22,Amit,Monitor,Accessories,5,31871,East,159355
+ORD0712,2026-01-01,Amit,Keyboard,Accessories,10,41374,South,413740
+ORD0713,2026-05-13,Karan,Keyboard,Office Equipment,6,12326,West,73956
+ORD0714,2026-08-21,Rohit,Mobile,Accessories,4,34920,North,139680
+ORD0715,2026-01-12,Sneha,Keyboard,Office Equipment,2,22424,South,44848
+ORD0716,2026-02-15,Pooja,Printer,Electronics,6,33867,North,203202
+ORD0717,2026-02-03,Rahul,Laptop,Accessories,8,21699,North,173592
+ORD0718,2026-03-19,Vikas,Mouse,Electronics,8,26368,West,210944
+ORD0719,2026-08-06,Priya,Laptop,Accessories,7,9292,West,65044
+ORD0720,2026-10-28,Neha,Monitor,Electronics,6,21097,East,126582
+ORD0721,2026-03-14,Rohit,Mouse,Accessories,2,36905,East,73810
+ORD0722,2026-10-09,Rohit,Keyboard,Accessories,7,33196,East,232372
+ORD0723,2026-09-06,Rohit,Monitor,Accessories,5,43623,South,218115
+ORD0724,2026-02-16,Rahul,Mouse,Accessories,6,16489,East,98934
+ORD0725,2026-05-01,Rahul,Printer,Accessories,10,29431,North,294310
+ORD0726,2026-08-02,Priya,Printer,Accessories,8,9790,East,78320
+ORD0727,2026-08-27,Pooja,Printer,Accessories,8,38867,West,310936
+ORD0728,2026-02-25,Sneha,Printer,Accessories,3,14842,East,44526
+ORD0729,2026-04-17,Rohit,Keyboard,Accessories,7,25441,South,178087
+ORD0730,2026-02-17,Amit,Laptop,Electronics,1,14445,South,14445
+ORD0731,2026-03-02,Anjali,Mouse,Office Equipment,1,11262,North,11262
+ORD0732,2026-01-26,Amit,Keyboard,Accessories,7,30633,South,214431
+ORD0733,2026-10-19,Karan,Printer,Office Equipment,10,47580,East,475800
+ORD0734,2026-09-14,Amit,Laptop,Accessories,9,40650,West,365850
+ORD0735,2026-01-08,Karan,Monitor,Accessories,7,27552,South,192864
+ORD0736,2026-04-23,Vikas,Monitor,Electronics,10,42250,North,422500
+ORD0737,2026-09-10,Anjali,Monitor,Electronics,5,20453,East,102265
+ORD0738,2026-06-29,Amit,Printer,Office Equipment,8,40975,North,327800
+ORD0739,2026-07-26,Vikas,Monitor,Electronics,2,17630,South,35260
+ORD0740,2026-10-30,Neha,Mobile,Electronics,9,31586,South,284274
+ORD0741,2026-05-07,Sneha,Mouse,Office Equipment,6,5133,North,30798
+ORD0742,2026-02-25,Vikas,Mouse,Electronics,9,17804,East,160236
+ORD0743,2026-08-02,Sneha,Printer,Accessories,2,42537,South,85074
+ORD0744,2026-01-14,Amit,Mobile,Office Equipment,3,32784,West,98352
+ORD0745,2026-01-28,Pooja,Keyboard,Office Equipment,8,47046,South,376368
+ORD0746,2026-03-19,Vikas,Keyboard,Accessories,1,7508,East,7508
+ORD0747,2026-08-04,Anjali,Monitor,Electronics,10,48791,South,487910
+ORD0748,2026-06-03,Amit,Laptop,Office Equipment,7,27905,North,195335
+ORD0749,2026-01-14,Rohit,Keyboard,Office Equipment,7,36886,South,258202
+ORD0750,2026-07-06,Rahul,Laptop,Accessories,1,25873,South,25873
+ORD0751,2026-01-07,Vikas,Mouse,Accessories,9,21327,East,191943
+ORD0752,2026-01-03,Anjali,Laptop,Electronics,8,33540,North,268320
+ORD0753,2026-04-21,Neha,Mouse,Office Equipment,4,13507,East,54028
+ORD0754,2026-08-26,Rohit,Mobile,Electronics,10,18657,South,186570
+ORD0755,2026-08-27,Neha,Mobile,Electronics,5,32657,West,163285
+ORD0756,2026-10-01,Amit,Printer,Accessories,2,35815,South,71630
+ORD0757,2026-10-21,Rahul,Printer,Office Equipment,9,36432,East,327888
+ORD0758,2026-08-15,Vikas,Monitor,Office Equipment,6,21664,West,129984
+ORD0759,2026-01-15,Vikas,Keyboard,Office Equipment,3,14914,East,44742
+ORD0760,2026-07-11,Pooja,Monitor,Accessories,7,14827,East,103789
+ORD0761,2026-04-29,Pooja,Mouse,Accessories,9,48844,North,439596
+ORD0762,2026-01-28,Amit,Monitor,Accessories,3,1446,West,4338
+ORD0763,2026-07-21,Amit,Laptop,Accessories,2,15193,South,30386
+ORD0764,2026-02-08,Rahul,Mouse,Accessories,7,27741,East,194187
+ORD0765,2026-09-30,Pooja,Printer,Office Equipment,7,30754,South,215278
+ORD0766,2026-08-19,Anjali,Mobile,Electronics,4,16040,North,64160
+ORD0767,2026-03-27,Anjali,Printer,Office Equipment,9,7219,North,64971
+ORD0768,2026-05-06,Rahul,Keyboard,Electronics,8,41703,West,333624
+ORD0769,2026-10-27,Anjali,Mouse,Accessories,1,25581,North,25581
+ORD0770,2026-01-25,Karan,Mouse,Electronics,1,11850,North,11850
+ORD0771,2026-05-25,Sneha,Laptop,Office Equipment,5,36858,South,184290
+ORD0772,2026-01-13,Rahul,Keyboard,Office Equipment,6,32521,North,195126
+ORD0773,2026-07-31,Rahul,Mobile,Electronics,3,43332,North,129996
+ORD0774,2026-01-25,Priya,Mouse,Accessories,9,28869,East,259821
+ORD0775,2026-03-09,Rohit,Mouse,Accessories,10,32228,North,322280
+ORD0776,2026-03-08,Rohit,Laptop,Office Equipment,6,18076,East,108456
+ORD0777,2026-08-21,Karan,Monitor,Electronics,4,29501,North,118004
+ORD0778,2026-04-19,Pooja,Mobile,Accessories,7,18348,North,128436
+ORD0779,2026-05-26,Amit,Printer,Accessories,8,890,West,7120
+ORD0780,2026-04-21,Amit,Keyboard,Office Equipment,9,22499,West,202491
+ORD0781,2026-08-16,Neha,Mouse,Accessories,6,45936,East,275616
+ORD0782,2026-04-21,Karan,Mouse,Electronics,6,12069,North,72414
+ORD0783,2026-02-03,Rahul,Printer,Office Equipment,8,13529,South,108232
+ORD0784,2026-04-21,Karan,Mobile,Office Equipment,5,22990,West,114950
+ORD0785,2026-09-21,Karan,Monitor,Electronics,3,46375,South,139125
+ORD0786,2026-08-24,Karan,Mouse,Office Equipment,3,35828,West,107484
+ORD0787,2026-03-24,Rohit,Mobile,Accessories,6,6367,West,38202
+ORD0788,2026-02-11,Karan,Printer,Accessories,2,15784,North,31568
+ORD0789,2026-04-11,Sneha,Laptop,Electronics,6,34479,West,206874
+ORD0790,2026-01-06,Amit,Monitor,Accessories,6,9621,South,57726
+ORD0791,2026-06-29,Neha,Keyboard,Electronics,8,2039,West,16312
+ORD0792,2026-10-09,Sneha,Mouse,Electronics,7,25988,East,181916
+ORD0793,2026-08-14,Neha,Mobile,Accessories,8,17527,North,140216
+ORD0794,2026-08-17,Priya,Laptop,Electronics,9,9193,North,82737
+ORD0795,2026-10-16,Neha,Keyboard,Accessories,6,9421,East,56526
+ORD0796,2026-05-30,Amit,Mobile,Office Equipment,3,10810,East,32430
+ORD0797,2026-10-04,Amit,Mobile,Office Equipment,10,46012,East,460120
+ORD0798,2026-07-17,Karan,Keyboard,Electronics,3,31408,West,94224
+ORD0799,2026-03-11,Vikas,Laptop,Accessories,1,4886,North,4886
+ORD0800,2026-04-22,Priya,Printer,Accessories,5,32763,East,163815
+ORD0801,2026-01-04,Rahul,Laptop,Office Equipment,4,28912,West,115648
+ORD0802,2026-04-05,Anjali,Monitor,Office Equipment,9,17803,East,160227
+ORD0803,2026-06-01,Neha,Mouse,Accessories,9,12742,South,114678
+ORD0804,2026-05-17,Vikas,Keyboard,Electronics,5,47525,South,237625
+ORD0805,2026-09-04,Karan,Printer,Office Equipment,10,9447,North,94470
+ORD0806,2026-08-31,Rohit,Keyboard,Electronics,4,47214,West,188856
+ORD0807,2026-01-31,Rahul,Keyboard,Electronics,7,6430,South,45010
+ORD0808,2026-02-09,Pooja,Laptop,Office Equipment,6,38670,South,232020
+ORD0809,2026-08-17,Vikas,Mouse,Electronics,4,49285,West,197140
+ORD0810,2026-02-05,Rohit,Monitor,Electronics,10,1007,East,10070
+ORD0811,2026-08-11,Priya,Mobile,Accessories,2,1936,West,3872
+ORD0812,2026-01-06,Karan,Mobile,Electronics,1,27651,East,27651
+ORD0813,2026-08-08,Rahul,Keyboard,Accessories,4,12118,South,48472
+ORD0814,2026-03-16,Rahul,Mouse,Office Equipment,4,9250,South,37000
+ORD0815,2026-01-04,Rahul,Printer,Office Equipment,1,16622,South,16622
+ORD0816,2026-05-14,Priya,Laptop,Accessories,6,7854,North,47124
+ORD0817,2026-04-28,Neha,Mouse,Office Equipment,4,44562,North,178248
+ORD0818,2026-04-04,Pooja,Mouse,Electronics,1,31479,North,31479
+ORD0819,2026-03-03,Priya,Laptop,Electronics,1,21400,West,21400
+ORD0820,2026-07-13,Anjali,Keyboard,Electronics,1,14340,South,14340
+ORD0821,2026-07-22,Pooja,Mouse,Office Equipment,8,37667,South,301336
+ORD0822,2026-01-26,Amit,Mobile,Electronics,10,5537,West,55370
+ORD0823,2026-06-22,Karan,Laptop,Office Equipment,8,29133,North,233064
+ORD0824,2026-10-27,Priya,Printer,Electronics,2,24995,West,49990
+ORD0825,2026-05-13,Rohit,Monitor,Accessories,7,16348,North,114436
+ORD0826,2026-04-28,Pooja,Keyboard,Office Equipment,8,36983,South,295864
+ORD0827,2026-10-02,Anjali,Laptop,Office Equipment,8,48145,East,385160
+ORD0828,2026-07-31,Amit,Monitor,Electronics,10,8337,North,83370
+ORD0829,2026-08-13,Neha,Monitor,Office Equipment,7,34569,South,241983
+ORD0830,2026-01-20,Rohit,Printer,Office Equipment,5,7870,South,39350
+ORD0831,2026-04-23,Pooja,Mouse,Accessories,1,6911,East,6911
+ORD0832,2026-05-20,Karan,Printer,Accessories,9,39633,South,356697
+ORD0833,2026-02-16,Rohit,Mouse,Electronics,7,30999,South,216993
+ORD0834,2026-01-01,Amit,Mouse,Accessories,2,30725,North,61450
+ORD0835,2026-03-31,Rohit,Laptop,Electronics,6,48717,North,292302
+ORD0836,2026-05-22,Sneha,Laptop,Electronics,2,1192,East,2384
+ORD0837,2026-02-07,Vikas,Keyboard,Electronics,1,29426,East,29426
+ORD0838,2026-10-20,Neha,Mouse,Office Equipment,7,34746,South,243222
+ORD0839,2026-05-19,Amit,Monitor,Accessories,2,39664,North,79328
+ORD0840,2026-09-16,Rohit,Mobile,Electronics,2,8948,East,17896
+ORD0841,2026-06-10,Vikas,Keyboard,Accessories,5,43890,East,219450
+ORD0842,2026-06-27,Vikas,Laptop,Electronics,5,10573,West,52865
+ORD0843,2026-01-10,Rohit,Printer,Accessories,7,35914,East,251398
+ORD0844,2026-09-18,Karan,Keyboard,Accessories,1,5709,South,5709
+ORD0845,2026-05-18,Sneha,Keyboard,Electronics,8,7033,North,56264
+ORD0846,2026-06-21,Priya,Keyboard,Office Equipment,3,21561,East,64683
+ORD0847,2026-01-13,Sneha,Keyboard,Accessories,4,7711,West,30844
+ORD0848,2026-06-17,Rohit,Mobile,Office Equipment,9,10427,North,93843
+ORD0849,2026-05-10,Neha,Printer,Office Equipment,4,12427,East,49708
+ORD0850,2026-03-25,Priya,Printer,Electronics,10,25094,West,250940
+ORD0851,2026-04-11,Amit,Printer,Electronics,5,9816,East,49080
+ORD0852,2026-09-30,Sneha,Mouse,Electronics,7,12677,North,88739
+ORD0853,2026-09-22,Rohit,Monitor,Accessories,4,11346,North,45384
+ORD0854,2026-02-07,Sneha,Printer,Electronics,1,8433,North,8433
+ORD0855,2026-04-04,Priya,Keyboard,Electronics,9,38744,South,348696
+ORD0856,2026-04-05,Anjali,Keyboard,Accessories,4,47121,East,188484
+ORD0857,2026-03-10,Pooja,Printer,Accessories,9,41196,South,370764
+ORD0858,2026-08-24,Sneha,Printer,Electronics,6,2580,North,15480
+ORD0859,2026-05-17,Amit,Keyboard,Electronics,1,6589,West,6589
+ORD0860,2026-03-17,Amit,Mouse,Electronics,3,26623,East,79869
+ORD0861,2026-02-04,Rahul,Laptop,Electronics,2,8297,South,16594
+ORD0862,2026-01-01,Sneha,Laptop,Office Equipment,9,8846,East,79614
+ORD0863,2026-10-23,Pooja,Printer,Office Equipment,1,20378,West,20378
+ORD0864,2026-03-01,Karan,Mobile,Electronics,9,34172,South,307548
+ORD0865,2026-09-24,Vikas,Printer,Office Equipment,9,18153,North,163377
+ORD0866,2026-08-17,Pooja,Printer,Accessories,8,43242,South,345936
+ORD0867,2026-09-27,Vikas,Laptop,Office Equipment,8,26640,East,213120
+ORD0868,2026-10-13,Vikas,Keyboard,Office Equipment,1,1684,East,1684
+ORD0869,2026-10-18,Anjali,Printer,Electronics,8,34993,East,279944
+ORD0870,2026-08-01,Rahul,Keyboard,Office Equipment,10,44648,East,446480
+ORD0871,2026-06-14,Pooja,Keyboard,Office Equipment,3,25346,North,76038
+ORD0872,2026-01-05,Pooja,Mobile,Office Equipment,7,46325,South,324275
+ORD0873,2026-03-19,Anjali,Keyboard,Office Equipment,1,22695,North,22695
+ORD0874,2026-03-03,Sneha,Laptop,Accessories,1,6106,North,6106
+ORD0875,2026-05-12,Sneha,Mouse,Electronics,10,4456,North,44560
+ORD0876,2026-03-30,Sneha,Mouse,Electronics,5,17055,East,85275
+ORD0877,2026-08-25,Neha,Monitor,Accessories,5,25349,East,126745
+ORD0878,2026-02-11,Vikas,Printer,Office Equipment,8,19190,East,153520
+ORD0879,2026-03-30,Neha,Laptop,Accessories,7,49349,South,345443
+ORD0880,2026-10-23,Rahul,Keyboard,Office Equipment,8,26847,West,214776
+ORD0881,2026-10-22,Anjali,Mouse,Accessories,6,33689,East,202134
+ORD0882,2026-04-14,Pooja,Laptop,Electronics,6,38808,South,232848
+ORD0883,2026-01-14,Vikas,Mouse,Electronics,2,26285,East,52570
+ORD0884,2026-10-15,Neha,Keyboard,Electronics,6,49556,East,297336
+ORD0885,2026-06-28,Neha,Mouse,Office Equipment,5,33198,North,165990
+ORD0886,2026-05-05,Rohit,Printer,Office Equipment,3,16466,North,49398
+ORD0887,2026-01-23,Neha,Printer,Accessories,6,31597,North,189582
+ORD0888,2026-03-04,Karan,Monitor,Accessories,8,16382,South,131056
+ORD0889,2026-05-23,Pooja,Monitor,Electronics,9,5175,West,46575
+ORD0890,2026-06-02,Karan,Mouse,Office Equipment,1,42350,West,42350
+ORD0891,2026-05-25,Pooja,Laptop,Accessories,3,13509,South,40527
+ORD0892,2026-08-13,Anjali,Printer,Office Equipment,3,28343,East,85029
+ORD0893,2026-04-14,Pooja,Laptop,Office Equipment,8,30293,South,242344
+ORD0894,2026-04-14,Karan,Laptop,Electronics,1,40016,East,40016
+ORD0895,2026-02-08,Pooja,Mouse,Electronics,5,39371,South,196855
+ORD0896,2026-07-17,Anjali,Laptop,Office Equipment,3,18357,South,55071
+ORD0897,2026-05-14,Anjali,Printer,Office Equipment,2,20127,South,40254
+ORD0898,2026-03-08,Rahul,Keyboard,Office Equipment,8,19065,West,152520
+ORD0899,2026-06-28,Pooja,Monitor,Office Equipment,3,26525,North,79575
+ORD0900,2026-02-11,Rohit,Keyboard,Electronics,7,28332,South,198324
+ORD0901,2026-01-15,Sneha,Laptop,Accessories,1,44616,West,44616
+ORD0902,2026-04-21,Amit,Keyboard,Electronics,6,10282,North,61692
+ORD0903,2026-06-06,Anjali,Printer,Accessories,3,39150,North,117450
+ORD0904,2026-10-16,Priya,Printer,Office Equipment,8,22866,South,182928
+ORD0905,2026-08-19,Sneha,Laptop,Accessories,6,29057,East,174342
+ORD0906,2026-06-06,Vikas,Mouse,Electronics,2,6298,East,12596
+ORD0907,2026-02-07,Pooja,Keyboard,Electronics,6,10127,East,60762
+ORD0908,2026-04-07,Karan,Mouse,Office Equipment,7,41683,South,291781
+ORD0909,2026-10-16,Amit,Mouse,Electronics,5,12966,East,64830
+ORD0910,2026-09-11,Priya,Mobile,Office Equipment,3,43114,West,129342
+ORD0911,2026-07-15,Sneha,Laptop,Electronics,4,13220,West,52880
+ORD0912,2026-03-27,Pooja,Monitor,Electronics,4,42413,West,169652
+ORD0913,2026-01-10,Rahul,Printer,Office Equipment,6,37792,West,226752
+ORD0914,2026-01-05,Vikas,Printer,Accessories,10,7059,North,70590
+ORD0915,2026-05-03,Amit,Laptop,Electronics,1,40888,West,40888
+ORD0916,2026-04-28,Rohit,Monitor,Accessories,4,19658,East,78632
+ORD0917,2026-10-21,Rahul,Printer,Electronics,10,31416,South,314160
+ORD0918,2026-06-08,Priya,Laptop,Electronics,4,22557,East,90228
+ORD0919,2026-10-30,Amit,Printer,Electronics,10,36392,West,363920
+ORD0920,2026-08-16,Rahul,Mouse,Electronics,1,41939,North,41939
+ORD0921,2026-08-04,Vikas,Keyboard,Accessories,9,12206,West,109854
+ORD0922,2026-07-03,Rohit,Keyboard,Accessories,4,12570,South,50280
+ORD0923,2026-01-15,Rahul,Printer,Electronics,7,41402,East,289814
+ORD0924,2026-06-06,Neha,Mobile,Electronics,3,1424,South,4272
+ORD0925,2026-05-16,Rohit,Monitor,Accessories,10,26978,South,269780
+ORD0926,2026-09-18,Priya,Monitor,Office Equipment,3,6006,South,18018
+ORD0927,2026-06-06,Vikas,Monitor,Office Equipment,8,46918,East,375344
+ORD0928,2026-02-16,Pooja,Mouse,Accessories,8,35663,West,285304
+ORD0929,2026-06-22,Karan,Monitor,Electronics,1,25104,South,25104
+ORD0930,2026-05-10,Karan,Keyboard,Electronics,10,15810,East,158100
+ORD0931,2026-04-05,Karan,Mouse,Office Equipment,2,8726,North,17452
+ORD0932,2026-04-25,Amit,Laptop,Office Equipment,8,12281,East,98248
+ORD0933,2026-08-31,Priya,Monitor,Accessories,1,6015,North,6015
+ORD0934,2026-10-19,Vikas,Monitor,Office Equipment,8,36633,East,293064
+ORD0935,2026-10-09,Rohit,Laptop,Accessories,8,17472,West,139776
+ORD0936,2026-10-26,Amit,Monitor,Office Equipment,2,32592,South,65184
+ORD0937,2026-10-10,Priya,Laptop,Office Equipment,4,11910,West,47640
+ORD0938,2026-03-10,Pooja,Mouse,Office Equipment,6,20022,East,120132
+ORD0939,2026-05-28,Neha,Keyboard,Electronics,9,9595,South,86355
+ORD0940,2026-01-11,Vikas,Laptop,Electronics,8,23547,North,188376
+ORD0941,2026-09-11,Karan,Mobile,Electronics,8,20970,East,167760
+ORD0942,2026-02-07,Rahul,Laptop,Office Equipment,7,43629,South,305403
+ORD0943,2026-05-14,Vikas,Monitor,Accessories,9,9031,North,81279
+ORD0944,2026-07-19,Anjali,Mouse,Accessories,2,37538,North,75076
+ORD0945,2026-01-23,Priya,Printer,Accessories,3,22903,West,68709
+ORD0946,2026-10-30,Sneha,Mouse,Accessories,10,43174,East,431740
+ORD0947,2026-10-29,Pooja,Printer,Electronics,8,29622,North,236976
+ORD0948,2026-08-06,Neha,Laptop,Electronics,6,17440,South,104640
+ORD0949,2026-05-21,Pooja,Keyboard,Office Equipment,10,30331,North,303310
+ORD0950,2026-04-14,Vikas,Mobile,Office Equipment,9,11779,North,106011
+ORD0951,2026-07-29,Sneha,Mouse,Accessories,10,38720,West,387200
+ORD0952,2026-04-21,Anjali,Monitor,Electronics,4,6977,West,27908
+ORD0953,2026-04-14,Rohit,Printer,Accessories,8,17900,South,143200
+ORD0954,2026-06-20,Rahul,Monitor,Office Equipment,10,6970,West,69700
+ORD0955,2026-05-13,Sneha,Keyboard,Office Equipment,3,2562,North,7686
+ORD0956,2026-10-20,Priya,Printer,Accessories,3,42298,North,126894
+ORD0957,2026-05-07,Karan,Mouse,Office Equipment,8,20380,West,163040
+ORD0958,2026-04-16,Anjali,Laptop,Accessories,5,35081,North,175405
+ORD0959,2026-04-02,Rahul,Monitor,Electronics,3,44939,North,134817
+ORD0960,2026-10-14,Neha,Keyboard,Accessories,10,14808,South,148080
+ORD0961,2026-02-20,Karan,Mouse,Electronics,1,26527,West,26527
+ORD0962,2026-01-29,Vikas,Mouse,Electronics,3,31220,North,93660
+ORD0963,2026-10-23,Sneha,Mouse,Office Equipment,9,35581,West,320229
+ORD0964,2026-10-24,Rahul,Mouse,Office Equipment,5,10206,South,51030
+ORD0965,2026-08-02,Amit,Printer,Office Equipment,10,10337,West,103370
+ORD0966,2026-09-24,Rohit,Mouse,Accessories,2,39099,North,78198
+ORD0967,2026-09-14,Rohit,Monitor,Accessories,7,37324,West,261268
+ORD0968,2026-10-29,Anjali,Keyboard,Office Equipment,2,33573,North,67146
+ORD0969,2026-04-11,Neha,Printer,Accessories,4,47615,North,190460
+ORD0970,2026-04-20,Anjali,Mouse,Office Equipment,7,32588,North,228116
+ORD0971,2026-07-01,Amit,Mobile,Accessories,4,28612,South,114448
+ORD0972,2026-01-01,Priya,Mobile,Electronics,7,26799,West,187593
+ORD0973,2026-02-24,Neha,Keyboard,Electronics,7,34957,South,244699
+ORD0974,2026-05-29,Pooja,Laptop,Office Equipment,1,30563,West,30563
+ORD0975,2026-05-17,Priya,Laptop,Accessories,6,4417,South,26502
+ORD0976,2026-07-21,Neha,Printer,Accessories,9,3436,East,30924
+ORD0977,2026-04-27,Neha,Printer,Electronics,2,37130,North,74260
+ORD0978,2026-06-03,Amit,Printer,Electronics,3,15006,North,45018
+ORD0979,2026-10-18,Vikas,Laptop,Office Equipment,10,29305,South,293050
+ORD0980,2026-03-04,Amit,Mobile,Electronics,5,14818,East,74090
+ORD0981,2026-09-01,Neha,Laptop,Office Equipment,9,48568,North,437112
+ORD0982,2026-01-25,Rahul,Monitor,Electronics,4,26526,West,106104
+ORD0983,2026-03-31,Priya,Mouse,Electronics,1,28172,South,28172
+ORD0984,2026-03-16,Amit,Printer,Accessories,4,38917,North,155668
+ORD0985,2026-10-21,Vikas,Mobile,Electronics,6,27781,North,166686
+ORD0986,2026-07-29,Sneha,Keyboard,Electronics,5,48942,South,244710
+ORD0987,2026-01-17,Anjali,Keyboard,Office Equipment,1,28591,South,28591
+ORD0988,2026-05-08,Neha,Mouse,Electronics,4,38828,West,155312
+ORD0989,2026-09-08,Pooja,Mobile,Office Equipment,6,48719,West,292314
+ORD0990,2026-06-28,Sneha,Laptop,Electronics,10,19110,North,191100
+ORD0991,2026-07-01,Rohit,Laptop,Electronics,10,1579,North,15790
+ORD0992,2026-06-01,Karan,Monitor,Office Equipment,4,30350,South,121400
+ORD0993,2026-01-25,Vikas,Monitor,Accessories,9,47251,North,425259
+ORD0994,2026-06-29,Pooja,Laptop,Office Equipment,5,21090,North,105450
+ORD0995,2026-07-17,Karan,Keyboard,Office Equipment,8,31451,South,251608
+ORD0996,2026-06-10,Vikas,Printer,Office Equipment,9,15827,North,142443
+ORD0997,2026-06-26,Rahul,Keyboard,Accessories,10,13255,North,132550
+ORD0998,2026-10-12,Anjali,Monitor,Electronics,5,7735,East,38675
+ORD0999,2026-03-04,Sneha,Mouse,Office Equipment,6,17697,West,106182
+ORD1000,2026-05-30,Priya,Laptop,Office Equipment,1,21973,South,21973
+ORD0006,2026-01-21,Rahul,Monitor,Electronics,9,25605,West,230445

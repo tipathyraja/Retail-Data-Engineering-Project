@@ -1,0 +1,15 @@
+Retail Data Engineering Project
+
+Objective:
+Build an end-to-end retail sales
+data engineering pipeline.
+
+Technologies:
+Python, SQL, PostgreSQL, Azure, Power BI.
+
+Project Steps:
+1. Extract data
+2. Clean data
+3. Transform data
+4. Load data
+5. Build dashboard

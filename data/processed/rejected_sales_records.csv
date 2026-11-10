@@ -1,0 +1,6 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Quantity,Unit_Price,Region,Sales_Amount,Rejection_Reason
+ORD0001,2026-04-13,,Printer,Electronics,10,30046,West,300460,Missing Customer_Name
+ORD0002,2026-09-28,Amit,,Electronics,7,40547,East,283829,Missing Product
+ORD0003,2026-04-17,Rohit,Mouse,Accessories,-5,41930,South,377370,Quantity must be positive
+ORD0005,not_a_date,Vikas,Printer,Accessories,2,49742,South,99484,Invalid Order Date
+ORD0006,2026-01-21,Rahul,Monitor,Electronics,9,25605,West,230445,Duplicate Order ID
